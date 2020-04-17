@@ -1,0 +1,409 @@
+x,y,index,country,region
+0.0929,-0.00582,workplaces,United Kingdom,Total
+2.36,0.01096,workplaces,United Kingdom,Total
+4.716,0.00453,workplaces,United Kingdom,Total
+6.9817,0.01551,workplaces,United Kingdom,Total
+9.3377,0.00908,workplaces,United Kingdom,Total
+11.695,0.00844,workplaces,United Kingdom,Total
+13.9594,0.01363,workplaces,United Kingdom,Total
+16.3139,0.0014,workplaces,United Kingdom,Total
+18.5728,-0.0166,workplaces,United Kingdom,Total
+19.4174,-0.03422,workplaces,United Kingdom,Total
+20.8345,-0.02301,workplaces,United Kingdom,Total
+22.7969,-0.0989,workplaces,United Kingdom,Total
+24.3752,-0.20367,workplaces,United Kingdom,Total
+26.2433,-0.27954,workplaces,United Kingdom,Total
+27.7602,-0.24517,workplaces,United Kingdom,Total
+28.3177,-0.2801,workplaces,United Kingdom,Total
+29.4205,-0.40214,workplaces,United Kingdom,Total
+30.4263,-0.53574,workplaces,United Kingdom,Total
+31.8148,-0.64626,workplaces,United Kingdom,Total
+34.075,-0.65846,workplaces,United Kingdom,Total
+35.6999,-0.56615,workplaces,United Kingdom,Total
+36.8983,-0.68241,workplaces,United Kingdom,Total
+39.0616,-0.70618,workplaces,United Kingdom,Total
+41.2371,-0.67779,workplaces,United Kingdom,Total
+42.5846,-0.56221,workplaces,United Kingdom,Total
+0.083,-0.0232,grocery,United Kingdom,Total
+2.1756,0.03449,grocery,United Kingdom,Total
+4.3212,0.00521,grocery,United Kingdom,Total
+6.5771,0.01071,grocery,United Kingdom,Total
+8.8384,0.02779,grocery,United Kingdom,Total
+11.1799,0.01588,grocery,United Kingdom,Total
+12.3147,0.03312,grocery,United Kingdom,Total
+12.3337,0.0737,grocery,United Kingdom,Total
+12.878,0.03305,grocery,United Kingdom,Total
+13.248,0.0214,grocery,United Kingdom,Total
+15.41,0.02691,grocery,United Kingdom,Total
+17.6767,0.05559,grocery,United Kingdom,Total
+19.7639,0.10168,grocery,United Kingdom,Total
+21.8211,0.08401,grocery,United Kingdom,Total
+23.0932,0.19399,grocery,United Kingdom,Total
+25.3627,0.22846,grocery,United Kingdom,Total
+26.6281,0.12395,grocery,United Kingdom,Total
+27.7886,-0.00375,grocery,United Kingdom,Total
+28.7615,-0.13141,grocery,United Kingdom,Total
+30.1588,-0.15479,grocery,United Kingdom,Total
+31.518,-0.25932,grocery,United Kingdom,Total
+33.7548,-0.29441,grocery,United Kingdom,Total
+35.0147,-0.41052,grocery,United Kingdom,Total
+35.5508,-0.46856,grocery,United Kingdom,Total
+36.3399,-0.38751,grocery,United Kingdom,Total
+38.159,-0.31239,grocery,United Kingdom,Total
+40.3156,-0.31848,grocery,United Kingdom,Total
+42.0748,-0.37089,grocery,United Kingdom,Total
+0.0809,0,parks,United Kingdom,Total
+1.6798,-0.01217,parks,United Kingdom,Total
+3.5674,0.06518,parks,United Kingdom,Total
+4.6668,-0.0305,parks,United Kingdom,Total
+5.9503,-0.13814,parks,United Kingdom,Total
+6.7302,-0.00093,parks,United Kingdom,Total
+7.3246,0.14227,parks,United Kingdom,Total
+9.4647,0.10018,parks,United Kingdom,Total
+11.0343,0.01638,parks,United Kingdom,Total
+11.9997,0.14759,parks,United Kingdom,Total
+12.3039,0.24904,parks,United Kingdom,Total
+12.8424,0.15344,parks,United Kingdom,Total
+13.9571,0.12344,parks,United Kingdom,Total
+15.2504,0.05758,parks,United Kingdom,Total
+17.219,0.08119,parks,United Kingdom,Total
+18.9978,0.09288,parks,United Kingdom,Total
+20.2911,0.02703,parks,United Kingdom,Total
+21.7937,0.05668,parks,United Kingdom,Total
+22.2959,0.20586,parks,United Kingdom,Total
+22.5024,0.28941,parks,United Kingdom,Total
+23.0423,0.19979,parks,United Kingdom,Total
+23.6632,0.05642,parks,United Kingdom,Total
+25.1462,0.00248,parks,United Kingdom,Total
+27.1176,0.03803,parks,United Kingdom,Total
+28.2602,0.12742,parks,United Kingdom,Total
+28.7527,0.23481,parks,United Kingdom,Total
+29.1922,0.11535,parks,United Kingdom,Total
+30,-0.02805,parks,United Kingdom,Total
+31.0952,-0.14163,parks,United Kingdom,Total
+32.9619,-0.15383,parks,United Kingdom,Total
+33.7711,-0.29126,parks,United Kingdom,Total
+34.297,-0.44058,parks,United Kingdom,Total
+35.2053,-0.55414,parks,United Kingdom,Total
+36.2628,-0.42892,parks,United Kingdom,Total
+37.1362,-0.29172,parks,United Kingdom,Total
+38.4504,-0.26803,parks,United Kingdom,Total
+40.5097,-0.25637,parks,United Kingdom,Total
+41.7918,-0.36998,parks,United Kingdom,Total
+0.2757,-0.01753,residential,United Kingdom,Total
+2.5159,-0.01073,residential,United Kingdom,Total
+4.848,-0.00978,residential,United Kingdom,Total
+7.1774,-0.02058,residential,United Kingdom,Total
+9.5109,-0.01374,residential,United Kingdom,Total
+11.7511,-0.00694,residential,United Kingdom,Total
+14.0805,-0.01775,residential,United Kingdom,Total
+16.4153,-0.00503,residential,United Kingdom,Total
+18.6569,0.00766,residential,United Kingdom,Total
+20.9904,0.0145,residential,United Kingdom,Total
+23.1428,0.04479,residential,United Kingdom,Total
+25.302,0.1045,residential,United Kingdom,Total
+27.5409,0.10542,residential,United Kingdom,Total
+28.9333,0.07658,residential,United Kingdom,Total
+29.4134,0.1356,residential,United Kingdom,Total
+31.0226,0.23626,residential,United Kingdom,Total
+33.2696,0.27248,residential,United Kingdom,Total
+34.9309,0.19669,residential,United Kingdom,Total
+35.7595,0.14997,residential,United Kingdom,Total
+36.6155,0.22091,residential,United Kingdom,Total
+38.4935,0.27462,residential,United Kingdom,Total
+40.7351,0.28731,residential,United Kingdom,Total
+42.2963,0.18206,residential,United Kingdom,Total
+0.0939,-0.01752,retail,United Kingdom,Total
+2.2533,-0.01168,retail,United Kingdom,Total
+4.5066,0.01168,retail,United Kingdom,Total
+6.6659,0.03504,retail,United Kingdom,Total
+7.2293,0.07007,retail,United Kingdom,Total
+8.7314,0.0292,retail,United Kingdom,Total
+10.9847,-0.00584,retail,United Kingdom,Total
+12.2052,0.04672,retail,United Kingdom,Total
+12.9563,0.01752,retail,United Kingdom,Total
+14.9279,0.01752,retail,United Kingdom,Total
+17.0873,-0.01168,retail,United Kingdom,Total
+19.3406,-0.02336,retail,United Kingdom,Total
+21.0306,-0.11095,retail,United Kingdom,Total
+22.8144,-0.05255,retail,United Kingdom,Total
+24.0349,-0.17518,retail,United Kingdom,Total
+26.0066,-0.23942,retail,United Kingdom,Total
+27.1332,-0.36204,retail,United Kingdom,Total
+27.8843,-0.49635,retail,United Kingdom,Total
+29.2926,-0.51971,retail,United Kingdom,Total
+29.8559,-0.43212,retail,United Kingdom,Total
+30.2314,-0.55474,retail,United Kingdom,Total
+30.7948,-0.69489,retail,United Kingdom,Total
+32.8603,-0.74745,retail,United Kingdom,Total
+34.738,-0.82336,retail,United Kingdom,Total
+35.7707,-0.84672,retail,United Kingdom,Total
+36.5218,-0.8,retail,United Kingdom,Total
+38.3057,-0.75328,retail,United Kingdom,Total
+40.559,-0.76496,retail,United Kingdom,Total
+42.5306,-0.82336,retail,United Kingdom,Total
+0.0905,0.01169,transport,United Kingdom,Total
+2.1466,-0.00555,transport,United Kingdom,Total
+4.3865,-0.01108,transport,United Kingdom,Total
+6.5318,-0.01079,transport,United Kingdom,Total
+7.1697,0.05353,transport,United Kingdom,Total
+8.2093,-0.00472,transport,United Kingdom,Total
+10.4533,-0.02778,transport,United Kingdom,Total
+12.5918,0.00171,transport,United Kingdom,Total
+14.7384,-0.00384,transport,United Kingdom,Total
+16.8959,-0.0561,transport,United Kingdom,Total
+19.0507,-0.09668,transport,United Kingdom,Total
+21.0244,-0.16065,transport,United Kingdom,Total
+22.9954,-0.21294,transport,United Kingdom,Total
+24.4217,-0.32953,transport,United Kingdom,Total
+26.3968,-0.39934,transport,United Kingdom,Total
+28.3719,-0.46914,transport,United Kingdom,Total
+29.9779,-0.55651,transport,United Kingdom,Total
+31.4042,-0.67311,transport,United Kingdom,Total
+33.6523,-0.71368,transport,United Kingdom,Total
+35.8071,-0.75426,transport,United Kingdom,Total
+37.9469,-0.73061,transport,United Kingdom,Total
+40.2815,-0.74198,transport,United Kingdom,Total
+42.4227,-0.72417,transport,United Kingdom,Total
+0.009,-0.01608,workplaces,United Kingdom,Greater London
+1.4922,-0.00675,workplaces,United Kingdom,Greater London
+2.7473,0.0258,workplaces,United Kingdom,Greater London
+3.0372,0.00258,workplaces,United Kingdom,Greater London
+4.5192,-0.00649,workplaces,United Kingdom,Greater London
+6.0636,-0.00636,workplaces,United Kingdom,Greater London
+6.9638,0.02251,workplaces,United Kingdom,Greater London
+7.0616,0.01886,workplaces,United Kingdom,Greater London
+7.6085,0.00297,workplaces,United Kingdom,Greater London
+9.0911,0.0031,workplaces,United Kingdom,Greater London
+10.6349,-0.00598,workplaces,United Kingdom,Greater London
+12.1173,-0.01045,workplaces,United Kingdom,Greater London
+13.6007,0.00348,workplaces,United Kingdom,Greater London
+15.0822,-0.0148,workplaces,United Kingdom,Greater London
+16.6257,-0.02848,workplaces,United Kingdom,Greater London
+18.1072,-0.04676,workplaces,United Kingdom,Greater London
+19.4632,-0.09727,workplaces,United Kingdom,Greater London
+20.763,-0.05574,workplaces,United Kingdom,Greater London
+21.9325,-0.12468,workplaces,United Kingdom,Greater London
+22.8535,-0.21665,workplaces,United Kingdom,Greater London
+23.7745,-0.30862,workplaces,United Kingdom,Greater London
+24.8819,-0.38217,workplaces,United Kingdom,Greater London
+26.2378,-0.43268,workplaces,United Kingdom,Greater London
+27.3535,-0.37275,workplaces,United Kingdom,Greater London
+27.681,-0.34833,workplaces,United Kingdom,Greater London
+28.5255,-0.40027,workplaces,United Kingdom,Greater London
+29.1371,-0.50147,workplaces,United Kingdom,Greater London
+29.7483,-0.60727,workplaces,United Kingdom,Greater London
+30.6693,-0.69924,workplaces,United Kingdom,Greater London
+32.0873,-0.74515,workplaces,United Kingdom,Greater London
+33.5694,-0.75423,workplaces,United Kingdom,Greater London
+34.5631,-0.6667,workplaces,United Kingdom,Greater London
+35.8006,-0.63437,workplaces,United Kingdom,Greater London
+36.5357,-0.73556,workplaces,United Kingdom,Greater London
+37.7684,-0.78148,workplaces,United Kingdom,Greater London
+39.3128,-0.78135,workplaces,United Kingdom,Greater London
+40.7959,-0.77202,workplaces,United Kingdom,Greater London
+41.6664,-0.6799,workplaces,United Kingdom,Greater London
+42.7823,-0.61537,workplaces,United Kingdom,Greater London
+-0.0666,-0.01036,grocery,United Kingdom,Greater London
+1.3634,0.02137,grocery,United Kingdom,Greater London
+2.8484,0.01626,grocery,United Kingdom,Greater London
+4.3309,-0.00265,grocery,United Kingdom,Greater London
+5.8796,0.00142,grocery,United Kingdom,Greater London
+7.312,0.04696,grocery,United Kingdom,Greater London
+8.7979,0.04646,grocery,United Kingdom,Greater London
+10.2168,0.01836,grocery,United Kingdom,Greater London
+11.247,-0.0367,grocery,United Kingdom,Greater London
+11.3855,-0.02346,grocery,United Kingdom,Greater London
+12.2709,0.07749,grocery,United Kingdom,Greater London
+13.5626,0.03103,grocery,United Kingdom,Greater London
+15.0528,0.05354,grocery,United Kingdom,Greater London
+16.542,0.07144,grocery,United Kingdom,Greater London
+17.9109,0.10779,grocery,United Kingdom,Greater London
+19.3425,0.14873,grocery,United Kingdom,Greater London
+20.6325,0.09306,grocery,United Kingdom,Greater London
+21.8105,0.10187,grocery,United Kingdom,Greater London
+22.4491,0.20751,grocery,United Kingdom,Greater London
+23.7493,0.20706,grocery,United Kingdom,Greater London
+24.8162,0.28494,grocery,United Kingdom,Greater London
+25.9239,0.24775,grocery,United Kingdom,Greater London
+26.4616,0.14171,grocery,United Kingdom,Greater London
+26.9993,0.03567,grocery,United Kingdom,Greater London
+27.6608,-0.07041,grocery,United Kingdom,Greater London
+28.3851,-0.17191,grocery,United Kingdom,Greater London
+28.664,-0.19239,grocery,United Kingdom,Greater London
+29.5038,-0.14928,grocery,United Kingdom,Greater London
+30.3595,-0.2094,grocery,United Kingdom,Greater London
+31.585,-0.27886,grocery,United Kingdom,Greater London
+33.0014,-0.32076,grocery,United Kingdom,Greater London
+34.293,-0.36722,grocery,United Kingdom,Greater London
+35.3303,-0.45042,grocery,United Kingdom,Greater London
+35.8364,-0.47245,grocery,United Kingdom,Greater London
+36.3243,-0.43235,grocery,United Kingdom,Greater London
+37.3293,-0.35445,grocery,United Kingdom,Greater London
+38.7516,-0.36414,grocery,United Kingdom,Greater London
+40.2392,-0.35544,grocery,United Kingdom,Greater London
+41.5995,-0.3651,grocery,United Kingdom,Greater London
+42.9523,-0.41619,grocery,United Kingdom,Greater London
+-0.0825,-0.00117,transport,United Kingdom,Greater London
+0.6862,-0.02896,transport,United Kingdom,Greater London
+1.3405,-0.01941,transport,United Kingdom,Greater London
+1.8192,0.01448,transport,United Kingdom,Greater London
+2.7643,-0.02398,transport,United Kingdom,Greater London
+4.3125,-0.01941,transport,United Kingdom,Greater London
+5.797,-0.04222,transport,United Kingdom,Greater London
+6.9155,0.02163,transport,United Kingdom,Greater London
+8.0269,-0.02854,transport,United Kingdom,Greater London
+9.512,-0.04222,transport,United Kingdom,Greater London
+10.9972,-0.0559,transport,United Kingdom,Greater London
+12.4843,-0.03766,transport,United Kingdom,Greater London
+13.97,-0.04222,transport,United Kingdom,Greater London
+15.4546,-0.06502,transport,United Kingdom,Greater London
+16.9389,-0.09239,transport,United Kingdom,Greater London
+18.3604,-0.13343,transport,United Kingdom,Greater London
+19.657,-0.19272,transport,United Kingdom,Greater London
+21.0783,-0.23833,transport,United Kingdom,Greater London
+22.5629,-0.26114,transport,United Kingdom,Greater London
+23.4241,-0.35235,transport,United Kingdom,Greater London
+24.4719,-0.42989,transport,United Kingdom,Greater London
+25.8929,-0.48006,transport,United Kingdom,Greater London
+27.127,-0.54847,transport,United Kingdom,Greater London
+28.4239,-0.6032,transport,United Kingdom,Greater London
+29.8454,-0.64424,transport,United Kingdom,Greater London
+30.893,-0.72634,transport,United Kingdom,Greater London
+32.3145,-0.76739,transport,United Kingdom,Greater London
+33.8002,-0.77195,transport,United Kingdom,Greater London
+35.2851,-0.79019,transport,United Kingdom,Greater London
+36.7708,-0.79475,transport,United Kingdom,Greater London
+38.3187,-0.79475,transport,United Kingdom,Greater London
+39.8041,-0.80387,transport,United Kingdom,Greater London
+41.2296,-0.78107,transport,United Kingdom,Greater London
+42.7164,-0.76739,transport,United Kingdom,Greater London
+-0.0629,-0.0937,parks,United Kingdom,Greater London
+1.0798,-0.02063,parks,United Kingdom,Greater London
+2.3449,0.04789,parks,United Kingdom,Greater London
+3.5311,0.07079,parks,United Kingdom,Greater London
+4.4892,-0.02034,parks,United Kingdom,Greater London
+5.2598,-0.11606,parks,United Kingdom,Greater London
+6.099,-0.19352,parks,United Kingdom,Greater London
+6.4493,-0.08403,parks,United Kingdom,Greater London
+6.8013,0.03002,parks,United Kingdom,Greater London
+7.0897,0.1395,parks,United Kingdom,Greater London
+7.1744,0.24314,parks,United Kingdom,Greater London
+7.7884,0.18517,parks,United Kingdom,Greater London
+8.6226,0.09402,parks,United Kingdom,Greater London
+9.4551,-0.00168,parks,United Kingdom,Greater London
+10.3529,-0.08826,parks,United Kingdom,Greater London
+11.1218,-0.18853,parks,United Kingdom,Greater London
+11.6497,-0.10184,parks,United Kingdom,Greater London
+12,0.00765,parks,United Kingdom,Greater London
+12.4743,0.11715,parks,United Kingdom,Greater London
+12.9935,0.0123,parks,United Kingdom,Greater London
+13.7775,-0.04693,parks,United Kingdom,Greater London
+15.1614,0.00792,parks,United Kingdom,Greater London
+16.3861,-0.03302,parks,United Kingdom,Greater London
+17.3479,0.05371,parks,United Kingdom,Greater London
+18.1972,0.00361,parks,United Kingdom,Greater London
+19.4168,-0.05101,parks,United Kingdom,Greater London
+20.251,-0.14216,parks,United Kingdom,Greater London
+21.4052,-0.20591,parks,United Kingdom,Greater London
+21.8795,-0.09641,parks,United Kingdom,Greater London
+22.1695,0.01763,parks,United Kingdom,Greater London
+22.4596,0.13168,parks,United Kingdom,Greater London
+22.7231,0.24807,parks,United Kingdom,Greater London
+22.912,0.18188,parks,United Kingdom,Greater London
+23.2419,0.06789,parks,United Kingdom,Greater London
+23.5734,-0.04154,parks,United Kingdom,Greater London
+24.6104,-0.08706,parks,United Kingdom,Greater London
+25.1916,-0.19191,parks,United Kingdom,Greater London
+25.9051,-0.27395,parks,United Kingdom,Greater London
+27.222,-0.23279,parks,United Kingdom,Greater London
+28.1788,-0.15973,parks,United Kingdom,Greater London
+28.958,-0.06389,parks,United Kingdom,Greater London
+30.1843,-0.10027,parks,United Kingdom,Greater London
+30.9565,-0.19143,parks,United Kingdom,Greater London
+32.4459,-0.18674,parks,United Kingdom,Greater London
+33.5331,-0.26418,parks,United Kingdom,Greater London
+34.1143,-0.36903,parks,United Kingdom,Greater London
+34.5078,-0.47846,parks,United Kingdom,Greater London
+35.0907,-0.57875,parks,United Kingdom,Greater London
+36.1614,-0.53305,parks,United Kingdom,Greater London
+36.8819,-0.42809,parks,United Kingdom,Greater London
+37.7215,-0.3368,parks,United Kingdom,Greater London
+39.0283,-0.32301,parks,United Kingdom,Greater London
+40.4692,-0.28184,parks,United Kingdom,Greater London
+41.8899,-0.2954,parks,United Kingdom,Greater London
+42.7897,-0.20867,parks,United Kingdom,Greater London
+0.0317,-0.01024,residential,United Kingdom,Greater London
+1.5177,-0.00532,residential,United Kingdom,Greater London
+3.0656,-0.00948,residential,United Kingdom,Greater London
+4.6135,-6.00E-06,residential,United Kingdom,Greater London
+5.3074,0.00494,residential,United Kingdom,Greater London
+6.1614,0.00038,residential,United Kingdom,Greater London
+7.5855,-0.01288,residential,United Kingdom,Greater London
+9.1334,-0.00341,residential,United Kingdom,Greater London
+10.6193,0.00604,residential,United Kingdom,Greater London
+11.4011,0.02088,residential,United Kingdom,Greater London
+12.1673,0.00189,residential,United Kingdom,Greater London
+13.7152,-0.00226,residential,United Kingdom,Greater London
+15.2011,0.00266,residential,United Kingdom,Greater London
+16.6871,0.01211,residential,United Kingdom,Greater London
+18.235,0.02612,residential,United Kingdom,Greater London
+19.721,0.04465,residential,United Kingdom,Greater London
+21.207,0.03595,residential,United Kingdom,Greater London
+22.6311,0.07263,residential,United Kingdom,Greater London
+23.9932,0.13199,residential,United Kingdom,Greater London
+25.4173,0.16413,residential,United Kingdom,Greater London
+26.9033,0.18267,residential,United Kingdom,Greater London
+28.2035,0.13305,residential,United Kingdom,Greater London
+29.318,0.18782,residential,United Kingdom,Greater London
+30.3087,0.26979,residential,United Kingdom,Greater London
+31.6708,0.32007,residential,United Kingdom,Greater London
+33.1568,0.33861,residential,United Kingdom,Greater London
+33.9086,0.34366,residential,United Kingdom,Greater London
+34.3332,0.2935,residential,United Kingdom,Greater London
+35.3858,0.21204,residential,United Kingdom,Greater London
+35.9726,0.18562,residential,United Kingdom,Greater London
+36.3765,0.24407,residential,United Kingdom,Greater London
+37.2433,0.33056,residential,United Kingdom,Greater London
+38.7293,0.34455,residential,United Kingdom,Greater London
+40.2772,0.35402,residential,United Kingdom,Greater London
+41.4536,0.30891,residential,United Kingdom,Greater London
+42.3204,0.21379,residential,United Kingdom,Greater London
+0.0316,-0.01114,retail,United Kingdom,Greater London
+1.5125,-0.02501,retail,United Kingdom,Greater London
+3.0551,-0.01598,retail,United Kingdom,Greater London
+4.536,-0.01152,retail,United Kingdom,Greater London
+6.0169,-0.02081,retail,United Kingdom,Greater London
+7.0042,0.06615,retail,United Kingdom,Greater London
+8.1149,0.02024,retail,United Kingdom,Greater London
+9.5958,-0.01653,retail,United Kingdom,Greater London
+10.8916,-0.07162,retail,United Kingdom,Greater London
+11.9406,-0.03048,retail,United Kingdom,Greater London
+12.2927,0.01351,retail,United Kingdom,Greater London
+13.2364,-0.01684,retail,United Kingdom,Greater London
+14.7173,-0.02155,retail,United Kingdom,Greater London
+16.1365,-0.05374,retail,United Kingdom,Greater London
+17.6791,-0.06303,retail,United Kingdom,Greater London
+19.0366,-0.10896,retail,United Kingdom,Greater London
+20.209,-0.18237,retail,United Kingdom,Greater London
+21.5665,-0.23288,retail,United Kingdom,Greater London
+22.5537,-0.14591,retail,United Kingdom,Greater London
+23.2942,-0.24677,retail,United Kingdom,Greater London
+24.3432,-0.32474,retail,United Kingdom,Greater London
+25.7007,-0.37525,retail,United Kingdom,Greater London
+26.6263,-0.46696,retail,United Kingdom,Greater London
+27.305,-0.56781,retail,United Kingdom,Greater London
+28.2923,-0.65037,retail,United Kingdom,Greater London
+28.6014,-0.67515,retail,United Kingdom,Greater London
+29.4647,-0.60923,retail,United Kingdom,Greater London
+30.2051,-0.67802,retail,United Kingdom,Greater London
+31.0073,-0.76972,retail,United Kingdom,Greater London
+32.4882,-0.79733,retail,United Kingdom,Greater London
+33.9691,-0.81578,retail,United Kingdom,Greater London
+35.3883,-0.86172,retail,United Kingdom,Greater London
+36.5607,-0.816,retail,United Kingdom,Greater London
+37.9799,-0.79779,retail,United Kingdom,Greater London
+39.4608,-0.80708,retail,United Kingdom,Greater London
+41.0034,-0.81638,retail,United Kingdom,Greater London
+42.4226,-0.8394,retail,United Kingdom,Greater London
+43.049,-0.84364,retail,United Kingdom,Greater London
