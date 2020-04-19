@@ -1,0 +1,4 @@
+country,first_case_date,first_death_date,policy1_text,policy1_date,policy2_text,policy2_date,policy3_text,policy3_date
+United Kingdom,2020-02-06,2020-03-03,Social Distancing,2020-03-15,Lockdown,2020-03-23,,
+Italy,2020-01-31,2020-02-21,School Closure,2020-03-04,Partial Lockdown,2020-03-09,Full Lockdown,2020-03-11
+South Africa,2020-03-05,2020-03-27,Lockdown Announced,2020-03-23,Lockdown,2020-03-27,,
