@@ -2,9 +2,9 @@
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "assets/AssetManifest.json": "5b3e0b53104173162e5a29fb179a933f",
-"assets/assets/res/all_data_selected.csv": "c688927d0fb7acb7a1646fe7cdb7db83",
+"assets/assets/res/all_data_selected.csv": "a5ee9b9cfb98003b9b6c6adffa17b6ea",
 "assets/assets/res/chart_data.csv": "588a0906b00ebb91984a1a8d17a93086",
-"assets/assets/res/country_facts.csv": "406febd3f1d73b4a01338227c571ed9e",
+"assets/assets/res/country_facts.csv": "69657b02f5880ded3af69333c217e323",
 "assets/assets/res/latest_index_data.csv": "3b6ec1cba2bca7c79b6abf7e223b0142",
 "assets/assets/res/workplaces_gb.csv": "61ac9550e9b081dc781f0cd153f2c357",
 "assets/chart_data.csv": "588a0906b00ebb91984a1a8d17a93086",
@@ -13,8 +13,11 @@ const RESOURCES = {
 "assets/index_data.csv": "7f33e44ee3b16efc2957423b609910bd",
 "assets/LICENSE": "80554064a40182ab3c52b1ca72339530",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
+"assets/res/all_data_selected.csv": "c688927d0fb7acb7a1646fe7cdb7db83",
 "assets/res/chart_data.csv": "588a0906b00ebb91984a1a8d17a93086",
+"assets/res/country_facts.csv": "406febd3f1d73b4a01338227c571ed9e",
 "assets/res/index_data.csv": "7f33e44ee3b16efc2957423b609910bd",
+"assets/res/latest_index_data.csv": "3b6ec1cba2bca7c79b6abf7e223b0142",
 "assets/res/workplaces_gb.csv": "61ac9550e9b081dc781f0cd153f2c357",
 "assets/workplaces_gb.csv": "61ac9550e9b081dc781f0cd153f2c357",
 "favicon.ico": "074b6718eeff652e8baa19006c12e609",
@@ -23,8 +26,11 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "index.html": "47aaaf5c19b9f4ddc4adb44cc5d2e536",
 "/": "47aaaf5c19b9f4ddc4adb44cc5d2e536",
-"main.dart.js": "e71b297acac2582a98ea4e206b4b32ad",
-"manifest.json": "e15fc26e192615f5bd111e2bbd59c7b9"
+"main.dart.js": "2c79499d0bedbb1358ca771d0f9efd46",
+"manifest.json": "e15fc26e192615f5bd111e2bbd59c7b9",
+"res/chart_data.csv": "588a0906b00ebb91984a1a8d17a93086",
+"res/index_data.csv": "7f33e44ee3b16efc2957423b609910bd",
+"res/workplaces_gb.csv": "61ac9550e9b081dc781f0cd153f2c357"
 };
 
 self.addEventListener('activate', function (event) {
