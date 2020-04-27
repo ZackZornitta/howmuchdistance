@@ -1,829 +1,809 @@
-Date,Country,Region,Retail & recreation,Grocery & pharmacy,Parks,Transit stations,Workplaces,Residential
-2020-04-11,United Arab Emirates,Total,-64,-32,-77,-79,-45,24
-2020-04-11,United Arab Emirates,Abu Dhabi,-54,-21,-71,-76,-33,20
-2020-04-11,United Arab Emirates,Ajman,-49,-27,-81,-48,-37,21
-2020-04-11,United Arab Emirates,Dubai,-78,-44,-81,-81,-56,30
-2020-04-11,United Arab Emirates,Ras al Khaimah,-45,-20,-47,-60,-26,16
-2020-04-11,United Arab Emirates,Sharjah,-49,-26,-85,-73,-39,21
-2020-04-11,Afghanistan,Total,-46,-32,-12,-50,-38,16
-2020-04-11,Angola,Total,-53,-32,-37,-44,-31,22
-2020-04-11,Argentina,Total,-84,-34,-80,-67,-52,27
-2020-04-11,Argentina,Buenos Aires,-89,-28,-84,-74,-67,32
-2020-04-11,Argentina,Buenos Aires Province,-85,-33,-83,-65,-56,27
-2020-04-11,Argentina,Catamarca Province,-71,-15,-64,-63,-31,23
-2020-04-11,Argentina,Chaco Province,-79,-28,-68,-81,-41,21
-2020-04-11,Argentina,Chubut Province,-85,-37,-86,-83,-47,28
-2020-04-11,Argentina,Cordoba,-83,-37,-80,-82,-50,28
-2020-04-11,Argentina,Corrientes,-82,-44,-81,-84,-42,23
-2020-04-11,Argentina,Entre Rios,-84,-33,-85,-75,-42,24
-2020-04-11,Argentina,Formosa Province,-83,-32,-69,-56,-35,19
-2020-04-11,Argentina,Jujuy,-80,-28,-71,-84,-39,24
-2020-04-11,Argentina,La Pampa,-83,-32,-72,-70,-43,24
-2020-04-11,Argentina,La Rioja Province,-74,-27,-76,-76,-41,23
-2020-04-11,Argentina,Mendoza Province,-82,-30,-73,-58,-46,28
-2020-04-11,Argentina,Misiones Province,-80,-38,-71,-86,-42,23
-2020-04-11,Argentina,Neuquen,-84,-40,-84,-63,-52,31
-2020-04-11,Argentina,Río Negro,-86,-46,-85,-93,-50,29
-2020-04-11,Argentina,Salta Province,-81,-33,-73,-52,-43,24
-2020-04-11,Argentina,San Juan Province,-77,-17,-69,-82,-40,25
-2020-04-11,Argentina,San Luis Province,-86,-40,-80,-85,-48,25
-2020-04-11,Argentina,Santa Cruz Province,-81,-37,-82,-87,-46,25
-2020-04-11,Argentina,Santa Fe Province,-82,-29,-76,-46,-49,27
-2020-04-11,Argentina,Santiago del Estero Province,-79,-30,-68,-84,-44,22
-2020-04-11,Argentina,Tierra del Fuego Province,-88,-51,-87,-84,-59,29
-2020-04-11,Argentina,Tucumán,-79,-25,-66,-64,-43,23
-2020-04-11,Austria,Total,-81,-27,-20,-62,-45,15
-2020-04-11,Austria,Burgenland,-80,-33,21,-27,-43,15
-2020-04-11,Austria,Carinthia,-86,-49,-40,-53,-46,16
-2020-04-11,Austria,Lower Austria,-76,-18,51,-62,-40,14
-2020-04-11,Austria,Salzburg,-86,-33,-51,-79,-52,15
-2020-04-11,Austria,Styria,-83,-42,-30,-61,-45,16
-2020-04-11,Austria,Tyrol,-85,-37,-59,-75,-53,16
-2020-04-11,Austria,Upper Austria,-79,-18,22,-57,-38,14
-2020-04-11,Austria,Vienna,-80,-16,-11,-62,-46,15
-2020-04-11,Austria,Vorarlberg,-78,-23,-34,-71,-47,14
-2020-04-11,Australia,Total,-40,-2,-51,-63,-41,18
-2020-04-11,Australia,Australian Capital Territory,-38,11,-22,-61,-40,15
-2020-04-11,Australia,New South Wales,-43,-2,-48,-60,-43,18
-2020-04-11,Australia,Northern Territory,-24,7,-19,-54,-30,12
-2020-04-11,Australia,Queensland,-34,0,-50,-62,-39,15
-2020-04-11,Australia,South Australia,-33,9,-48,-52,-35,15
-2020-04-11,Australia,Tasmania,-49,-22,-78,-71,-38,18
-2020-04-11,Australia,Victoria,-46,-4,-73,-72,-45,22
-2020-04-11,Australia,Western Australia,-32,2,-39,-62,-32,16
-2020-04-11,Bosnia and Herzegovina,Total,-67,-34,-5,-52,-47,12
-2020-04-11,Barbados,Total,-77,-62,-67,-81,-67,25
-2020-04-11,Bangladesh,Total,-76,-55,-34,-72,-58,25
-2020-04-11,Belgium,Total,-79,-25,-20,-60,-47,20
-2020-04-11,Belgium,Brussels,-86,-39,-6,-71,-57,22
-2020-04-11,Belgium,Flanders,-76,-18,-17,-56,-45,19
-2020-04-11,Belgium,Wallonia,-81,-33,-37,-61,-47,21
-2020-04-11,Burkina Faso,Total,-32,-22,-15,-45,-9,17
-2020-04-11,Bulgaria,Total,-55,-19,-38,-46,-28,9
-2020-04-11,Bulgaria,Blagoevgrad Province,-65,-31,-36,-43,-37,9
-2020-04-11,Bulgaria,Burgas,-51,-12,-44,-38,-28,10
-2020-04-11,Bulgaria,Haskovo Province,-53,-9,-10,-50,-25,8
-2020-04-11,Bulgaria,Plovdiv Province,-59,-18,-53,-46,-31,11
-2020-04-11,Bulgaria,Ruse,-52,-19,-17,-59,-28,7
-2020-04-11,Bulgaria,Sofia City Province,-59,-22,-50,-53,-32,13
-2020-04-11,Bulgaria,Stara Zagora,-53,-19,-34,10,-22,8
-2020-04-11,Bulgaria,Varna,-54,-15,-44,-63,-29,10
-2020-04-11,Bulgaria,Veliko Tarnovo Province,-57,-26,-30,-41,-25,6
-2020-04-11,Bahrain,Total,-38,-15,-44,-37,-20,15
-2020-04-11,Benin,Total,-23,-12,-13,-25,-4,11
-2020-04-11,Bolivia,Total,-84,-67,-77,-83,-71,36
-2020-04-11,Brazil,Total,-59,-5,-59,-52,-36,16
-2020-04-11,Brazil,Federal District,-54,0,-50,-46,-38,16
-2020-04-11,Brazil,State of Acre,-55,-7,-46,-72,-27,10
-2020-04-11,Brazil,State of Alagoas,-62,-14,-59,-69,-34,13
-2020-04-11,Brazil,State of Amapá,-59,-5,-46,-77,-35,14
-2020-04-11,Brazil,State of Amazonas,-63,-19,-63,-50,-41,18
-2020-04-11,Brazil,State of Bahia,-64,-27,-64,-68,-40,17
-2020-04-11,Brazil,State of Ceará,-72,-24,-66,-66,-44,18
-2020-04-11,Brazil,State of Espírito Santo,-56,-5,-65,-57,-30,14
-2020-04-11,Brazil,State of Goiás,-56,-4,-32,-39,-35,13
-2020-04-11,Brazil,State of Maranhão,-57,-10,-46,-68,-34,13
-2020-04-11,Brazil,State of Mato Grosso,-43,0,-30,-43,-24,11
-2020-04-11,Brazil,State of Mato Grosso do Sul,-40,3,-30,-42,-23,11
-2020-04-11,Brazil,State of Minas Gerais,-54,2,-33,-44,-32,14
-2020-04-11,Brazil,State of Pará,-50,-7,-49,-57,-25,14
-2020-04-11,Brazil,State of Paraíba,-63,-11,-63,-57,-35,15
-2020-04-11,Brazil,State of Paraná,-54,9,-51,-46,-33,15
-2020-04-11,Brazil,State of Pernambuco,-65,-18,-62,-53,-40,17
-2020-04-11,Brazil,State of Piauí,-72,-31,-42,-80,-46,18
-2020-04-11,Brazil,State of Rio de Janeiro,-63,-10,-77,-54,-40,18
-2020-04-11,Brazil,State of Rio Grande do Norte,-59,-17,-62,-56,-34,16
-2020-04-11,Brazil,State of Rio Grande do Sul,-56,2,-57,-49,-36,17
-2020-04-11,Brazil,State of Rondônia,-44,-2,-27,-64,-23,11
-2020-04-11,Brazil,State of Roraima,-54,-14,-47,-72,-28,13
-2020-04-11,Brazil,State of Santa Catarina,-56,-8,-73,-62,-34,16
-2020-04-11,Brazil,State of São Paulo,-63,-4,-57,-53,-39,18
-2020-04-11,Brazil,State of Sergipe,-59,-14,-59,-72,-36,14
-2020-04-11,Brazil,State of Tocantins,-51,-17,-27,-64,-26,11
-2020-04-11,The Bahamas,Total,-97,-97,-84,-95,-79,38
-2020-04-11,Botswana,Total,-73,-63,-32,-81,-52,35
-2020-04-11,Belarus,Total,-31,-7,5,-27,-22,4
-2020-04-11,Canada,Total,-54,-15,-22,-63,-47,17
-2020-04-11,Canada,Alberta,-52,-13,-44,-64,-45,16
-2020-04-11,Canada,British Columbia,-51,-17,21,-58,-48,15
-2020-04-11,Canada,Manitoba,-42,0,-42,-55,-38,15
-2020-04-11,Canada,New Brunswick,-48,-15,-40,-57,-41,15
-2020-04-11,Canada,Newfoundland and Labrador,-45,-7,-28,-63,-43,14
-2020-04-11,Canada,Nova Scotia,-55,-21,-55,-62,-46,16
-2020-04-11,Canada,Ontario,-54,-9,-20,-62,-48,16
-2020-04-11,Canada,Quebec,-64,-27,-38,-67,-49,19
-2020-04-11,Canada,Saskatchewan,-50,-11,-33,-58,-40,15
-2020-04-11,Switzerland,Total,-77,11,27,-47,-41,15
-2020-04-11,Switzerland,Aargau,-74,19,99,-32,-36,15
-2020-04-11,Switzerland,Canton of Bern,-76,10,25,-50,-36,14
-2020-04-11,Switzerland,Fribourg,-74,20,48,-37,-41,17
-2020-04-11,Switzerland,Geneva,-80,-8,12,-74,-49,19
-2020-04-11,Switzerland,Lucerne,-73,24,13,-47,-39,15
-2020-04-11,Switzerland,St. Gallen,-74,27,119,-25,-36,13
-2020-04-11,Switzerland,Thurgau,-71,24,74,-29,-24,13
-2020-04-11,Switzerland,Ticino,-83,-21,-18,-50,-50,20
-2020-04-11,Switzerland,Valais,-85,-8,-35,-60,-52,18
-2020-04-11,Switzerland,Vaud,-80,7,17,-49,-46,18
-2020-04-11,Switzerland,Zurich,-78,20,96,-55,-43,15
-2020-04-11,Côte d'Ivoire,Total,-32,-19,-21,-33,-12,15
-2020-04-11,Chile,Total,-75,-51,-74,-67,-56,26
-2020-04-11,Chile,Antofagasta,-62,-47,-69,-58,-43,21
-2020-04-11,Chile,Araucania,-86,-70,-78,-85,-61,31
-2020-04-11,Chile,Arica y Parinacota,-73,-41,-76,-66,-50,23
-2020-04-11,Chile,Atacama,-64,-43,-63,-75,-37,24
-2020-04-11,Chile,Bio Bio,-78,-55,-77,-76,-58,29
-2020-04-11,Chile,Coquimbo,-79,-59,-81,-73,-51,24
-2020-04-11,Chile,Los Lagos,-77,-55,-71,-69,-56,26
-2020-04-11,Chile,Los Ríos,-80,-56,-79,-71,-54,26
-2020-04-11,Chile,Magallanes and Chilean Antarctica,-87,-75,-82,-87,-68,25
-2020-04-11,Chile,Maule,-73,-52,-71,-65,-50,27
-2020-04-11,Chile,O'Higgins,-69,-49,-69,-61,-49,25
-2020-04-11,Chile,Santiago Metropolitan Region,-75,-43,-64,-66,-59,27
-2020-04-11,Chile,Tarapacá,-74,-45,-78,-58,-49,25
-2020-04-11,Chile,Valparaíso,-75,-58,-82,-68,-52,24
-2020-04-11,Cameroon,Total,-31,-22,-23,-27,-11,14
-2020-04-11,Colombia,Total,-84,-65,-77,-81,-69,32
-2020-04-11,Colombia,Antioquia,-85,-61,-77,-82,-70,32
-2020-04-11,Colombia,Atlantico,-84,-64,-79,-86,-71,30
-2020-04-11,Colombia,Bogota,-85,-61,-75,-81,-72,36
-2020-04-11,Colombia,Bolivar,-86,-69,-84,-90,-68,27
-2020-04-11,Colombia,Boyaca,-86,-77,-82,-84,-67,33
-2020-04-11,Colombia,Caldas,-86,-69,-75,-92,-65,29
-2020-04-11,Colombia,Casanare,-80,-61,-71,-67,-60,31
-2020-04-11,Colombia,Cauca,-80,-61,-70,-71,-58,28
-2020-04-11,Colombia,Cesar,-84,-62,-72,-81,-60,26
-2020-04-11,Colombia,Cordoba,-83,-66,-65,-75,-62,25
-2020-04-11,Colombia,Cundinamarca,-83,-71,-79,-79,-65,35
-2020-04-11,Colombia,La Guajira,-77,-59,-65,-76,-54,21
-2020-04-11,Colombia,Magdalena,-79,-57,-81,-88,-59,24
-2020-04-11,Colombia,Meta,-81,-64,-70,-63,-61,31
-2020-04-11,Colombia,Narino,-84,-68,-71,-75,-64,29
-2020-04-11,Colombia,North Santander,-90,-82,-80,-90,-74,32
-2020-04-11,Colombia,Risaralda,-86,-67,-83,-86,-72,33
-2020-04-11,Colombia,Santander,-90,-86,-83,-87,-75,33
-2020-04-11,Colombia,Sucre,-92,-91,-84,-100,-72,30
-2020-04-11,Colombia,Tolima,-86,-66,-72,-87,-64,29
-2020-04-11,Colombia,Valle del Cauca,-83,-60,-79,-78,-68,30
-2020-04-11,Costa Rica,Total,-84,-62,-82,-85,-67,31
-2020-04-11,Czechia,Total,-67,4,9,-37,-27,7
-2020-04-11,Czechia,Central Bohemian Region,-56,8,103,6,-27,8
-2020-04-11,Czechia,Hradec Králové Region,-65,1,22,-38,-26,7
-2020-04-11,Czechia,Karlovy Vary Region,-73,-2,-11,-43,-29,5
-2020-04-11,Czechia,Liberec Region,-64,5,40,-33,-28,7
-2020-04-11,Czechia,Moravian-Silesian Region,-64,13,43,-39,-24,7
-2020-04-11,Czechia,Olomouc Region,-68,12,44,-48,-26,7
-2020-04-11,Czechia,Pardubice Region,-70,4,51,-55,-23,7
-2020-04-11,Czechia,Plzeň Region,-69,2,49,-28,-29,6
-2020-04-11,Czechia,Prague,-73,-13,-66,-54,-31,7
-2020-04-11,Czechia,South Bohemian Region,-69,3,43,-32,-23,6
-2020-04-11,Czechia,South Moravian Region,-66,4,41,-31,-28,7
-2020-04-11,Czechia,Ústí nad Labem Region,-68,13,66,-21,-22,5
-2020-04-11,Czechia,Vysocina Region,-67,12,94,-23,-23,7
-2020-04-11,Czechia,Zlin Region,-67,8,44,-38,-31,8
-2020-04-11,Germany,Total,-56,0,35,-48,-29,10
-2020-04-11,Germany,Baden-Württemberg,-57,-4,30,-49,-34,11
-2020-04-11,Germany,Bavaria,-67,-2,5,-57,-35,12
-2020-04-11,Germany,Berlin,-59,6,10,-51,-31,10
-2020-04-11,Germany,Brandenburg,-35,19,69,-32,-18,8
-2020-04-11,Germany,Bremen,-60,5,31,-55,-31,9
-2020-04-11,Germany,Hamburg,-62,2,45,-56,-34,11
-2020-04-11,Germany,Hesse,-53,-1,54,-62,-32,11
-2020-04-11,Germany,Lower Saxony,-54,2,36,-40,-27,10
-2020-04-11,Germany,Mecklenburg-Vorpommern,-55,3,13,-38,-20,6
-2020-04-11,Germany,North Rhine-Westphalia,-53,1,77,-46,-30,10
-2020-04-11,Germany,Rhineland-Palatinate,-51,1,35,-56,-32,10
-2020-04-11,Germany,Saarland,-56,-10,28,-60,-37,12
-2020-04-11,Germany,Saxony,-58,1,54,-44,-18,7
-2020-04-11,Germany,Saxony-Anhalt,-44,7,39,-46,-14,6
-2020-04-11,Germany,Schleswig-Holstein,-51,6,26,-39,-27,9
-2020-04-11,Germany,Thuringia,-44,3,51,-30,-17,6
-2020-04-11,Denmark,Total,-31,4,50,-52,-23,8
-2020-04-11,Denmark,Capital Region of Denmark,-44,1,38,-60,-27,9
-2020-04-11,Denmark,Central Denmark Region,-32,3,28,-48,-24,9
-2020-04-11,Denmark,North Denmark Region,-27,5,8,-49,-21,9
-2020-04-11,Denmark,Region of Southern Denmark,-24,7,63,-49,-20,8
-2020-04-11,Denmark,Region Zealand,-11,9,157,-41,-18,7
-2020-04-11,Dominican Republic,Total,-78,-58,-69,-85,-67,28
-2020-04-11,Ecuador,Total,-91,-83,-86,-87,-76,37
-2020-04-11,Estonia,Total,-57,-20,11,-43,-35,10
-2020-04-11,Estonia,Harju County,-60,-25,1,-51,-38,11
-2020-04-11,Egypt,Total,-67,-18,-42,-62,-45,16
-2020-04-11,Egypt,Al Qalyubia Governorate,-56,-8,-35,-48,-46,17
-2020-04-11,Egypt,Alexandria Governorate,-69,-21,-41,-60,-46,18
-2020-04-11,Egypt,Ash Sharqia Governorate,-51,1,-34,-48,-38,14
-2020-04-11,Egypt,Assiut Governorate,-61,-15,-43,-50,-37,13
-2020-04-11,Egypt,Aswan Governorate,-64,-32,5,-69,-36,15
-2020-04-11,Egypt,Cairo Governorate,-75,-28,-56,-65,-51,18
-2020-04-11,Egypt,Dakahlia Governorate,-58,-7,4,-55,-44,13
-2020-04-11,Egypt,El Beheira Governorate,-53,13,-18,-48,-37,14
-2020-04-11,Egypt,Gharbia Governorate,-60,-14,-60,-64,-45,15
-2020-04-11,Egypt,Giza Governorate,-71,-18,-58,-58,-48,18
-2020-04-11,Egypt,Ismailia Governorate,-64,-18,-43,-51,-43,16
-2020-04-11,Egypt,Kafr El Sheikh Governorate,-49,1,-37,-62,-38,12
-2020-04-11,Egypt,Menia Governorate,-53,8,-52,-53,-38,13
-2020-04-11,Egypt,Menofia Governorate,-56,7,-32,-53,-39,15
-2020-04-11,Egypt,Port Said Governorate,-68,-22,-51,-63,-49,21
-2020-04-11,Egypt,Red Sea Governorate,-79,-38,-78,-86,-52,23
-2020-04-11,Egypt,Sohag Governorate,-57,5,-35,-62,-37,12
-2020-04-11,Spain,Total,-92,-44,-85,-84,-63,26
-2020-04-11,Spain,Andalusia,-92,-47,-83,-85,-62,25
-2020-04-11,Spain,Aragon,-93,-40,-82,-85,-64,25
-2020-04-11,Spain,Asturias,-93,-34,-84,-75,-61,26
-2020-04-11,Spain,Balearic Islands,-90,-41,-86,-87,-64,27
-2020-04-11,Spain,Basque Country,-92,-33,-88,-82,-63,26
-2020-04-11,Spain,Canary Islands,-93,-47,-91,-86,-66,25
-2020-04-11,Spain,Cantabria,-93,-42,-89,-83,-61,27
-2020-04-11,Spain,Castile and León,-93,-47,-85,-84,-61,25
-2020-04-11,Spain,Castile-La Mancha,-91,-43,-84,-83,-61,25
-2020-04-11,Spain,Catalonia,-92,-45,-86,-83,-66,27
-2020-04-11,Spain,Community of Madrid,-94,-45,-90,-87,-68,27
-2020-04-11,Spain,Extremadura,-92,-48,-76,-81,-57,24
-2020-04-11,Spain,Galicia,-90,-38,-81,-84,-58,27
-2020-04-11,Spain,La Rioja,-95,-41,-88,-89,-65,27
-2020-04-11,Spain,Navarre,-93,-32,-86,-87,-62,28
-2020-04-11,Spain,Region of Murcia,-90,-38,-83,-75,-56,25
-2020-04-11,Spain,Valencian Community,-92,-45,-86,-86,-64,27
-2020-04-11,Finland,Total,-51,-17,89,-54,-30,8
-2020-04-11,Finland,Central Finland,-51,-20,96,-65,-31,8
-2020-04-11,Finland,Kymenlaakso,-54,-13,68,-67,-20,7
-2020-04-11,Finland,Lapland,-66,-30,131,-67,-37,5
-2020-04-11,Finland,Northern Ostrobothnia,-54,-21,140,-41,-30,6
-2020-04-11,Finland,Northern Savonia,-57,-16,79,-41,-29,7
-2020-04-11,Finland,Päijänne Tavastia,-55,-20,104,-45,-29,8
-2020-04-11,Finland,Pirkanmaa,-53,-18,82,-50,-29,7
-2020-04-11,Finland,Satakunta,-47,-13,131,-29,-23,6
-2020-04-11,Finland,Southwest Finland,-52,-18,92,-36,-27,7
-2020-04-11,Finland,Tavastia Proper,-48,-22,74,-58,-23,7
-2020-04-11,Finland,Uusimaa,-49,-12,87,-62,-34,10
-2020-04-11,Fiji,Total,-47,-29,-35,-55,-36,19
-2020-04-11,France,Total,-86,-39,-74,-79,-55,23
-2020-04-11,France,Auvergne-Rhône-Alpes,-86,-42,-71,-83,-54,24
-2020-04-11,France,Bourgogne-Franche-Comté,-86,-44,-64,-83,-51,22
-2020-04-11,France,Brittany,-86,-40,-65,-78,-49,23
-2020-04-11,France,Centre-Val de Loire,-84,-42,-73,-82,-53,22
-2020-04-11,France,Corsica,-85,-38,-65,-71,-51,19
-2020-04-11,France,Grand Est,-85,-41,-67,-79,-55,22
-2020-04-11,France,Hauts-de-France,-85,-36,-71,-78,-53,22
-2020-04-11,France,Île-de-France,-87,-38,-87,-79,-63,25
-2020-04-11,France,Normandy,-86,-38,-70,-82,-53,22
-2020-04-11,France,Nouvelle-Aquitaine,-85,-38,-70,-79,-51,23
-2020-04-11,France,Occitanie,-85,-40,-68,-80,-53,22
-2020-04-11,France,Pays de la Loire,-86,-41,-71,-82,-52,24
-2020-04-11,France,Provence-Alpes-Côte d'Azur,-84,-36,-75,-78,-55,22
-2020-04-11,Gabon,Total,-32,-13,-23,-39,-23,18
-2020-04-11,United Kingdom,Total,-81,-32,-37,-70,-57,19
-2020-04-11,United Kingdom,"Armagh City, Banbridge And Craigavon",-72,-17,-66,-55,-47,18
-2020-04-11,United Kingdom,Belfast,-79,-22,-49,-73,-60,19
-2020-04-11,United Kingdom,Buckinghamshire,-79,-33,-23,-68,-58,20
-2020-04-11,United Kingdom,Cambridgeshire,-83,-34,-32,-76,-57,19
-2020-04-11,United Kingdom,Cardiff,-84,-32,-47,-79,-60,20
-2020-04-11,United Kingdom,Central Bedfordshire,-79,-30,-5,-68,-58,19
-2020-04-11,United Kingdom,Cheshire East,-80,-32,-49,-74,-58,19
-2020-04-11,United Kingdom,Cheshire West and Chester,-86,-34,-48,-73,-58,19
-2020-04-11,United Kingdom,City of Bristol,-87,-36,-9,-78,-59,21
-2020-04-11,United Kingdom,Cornwall,-81,-38,-49,-55,-55,17
-2020-04-11,United Kingdom,County Durham,-76,-28,-35,-52,-55,18
-2020-04-11,United Kingdom,Cumbria,-81,-35,-52,-68,-59,18
-2020-04-11,United Kingdom,Derby,-80,-31,-10,-77,-57,19
-2020-04-11,United Kingdom,Derbyshire,-81,-29,-41,-57,-58,19
-2020-04-11,United Kingdom,Devon,-83,-37,-47,-66,-57,18
-2020-04-11,United Kingdom,Dorset,-82,-34,-38,-58,-59,18
-2020-04-11,United Kingdom,East Riding of Yorkshire,-80,-32,-46,-44,-56,17
-2020-04-11,United Kingdom,East Sussex,-80,-31,-37,-61,-56,18
-2020-04-11,United Kingdom,Edinburgh,-86,-34,-52,-83,-68,22
-2020-04-11,United Kingdom,Essex,-78,-36,-31,-78,-57,19
-2020-04-11,United Kingdom,Fife,-76,-22,-30,-55,-55,17
-2020-04-11,United Kingdom,Glasgow City,-84,-33,-35,-84,-61,20
-2020-04-11,United Kingdom,Gloucestershire,-84,-35,-44,-64,-56,19
-2020-04-11,United Kingdom,Greater London,-84,-36,-34,-77,-64,23
-2020-04-11,United Kingdom,Greater Manchester,-79,-31,-32,-75,-56,19
-2020-04-11,United Kingdom,Hampshire,-81,-32,-34,-68,-56,19
-2020-04-11,United Kingdom,Hertfordshire,-80,-36,-27,-71,-59,20
-2020-04-11,United Kingdom,Highland Council,-81,-36,-51,-68,-55,17
-2020-04-11,United Kingdom,Kent,-80,-34,-37,-65,-55,18
-2020-04-11,United Kingdom,Kingston upon Hull,-77,-32,-35,-66,-51,17
-2020-04-11,United Kingdom,Lancashire,-79,-30,-21,-64,-54,18
-2020-04-11,United Kingdom,Leicester,-81,-34,-17,-72,-55,18
-2020-04-11,United Kingdom,Leicestershire,-80,-32,-34,-67,-58,19
-2020-04-11,United Kingdom,Lincolnshire,-79,-31,-43,-59,-50,17
-2020-04-11,United Kingdom,Luton,-73,-23,4,-89,-52,19
-2020-04-11,United Kingdom,Medway,-79,-24,-30,-62,-54,18
-2020-04-11,United Kingdom,Merseyside,-78,-26,-40,-69,-55,18
-2020-04-11,United Kingdom,Milton Keynes,-81,-37,-23,-76,-55,19
-2020-04-11,United Kingdom,Norfolk,-81,-36,-54,-57,-54,17
-2020-04-11,United Kingdom,North Yorkshire,-83,-36,-58,-67,-57,19
-2020-04-11,United Kingdom,Northamptonshire,-80,-29,-42,-67,-52,18
-2020-04-11,United Kingdom,Northumberland,-78,-24,-57,-51,-55,18
-2020-04-11,United Kingdom,Nottingham,-86,-35,-20,-76,-57,18
-2020-04-11,United Kingdom,Nottinghamshire,-80,-34,-33,-55,-56,18
-2020-04-11,United Kingdom,Oxfordshire,-84,-34,-37,-76,-59,20
-2020-04-11,United Kingdom,Plymouth,-83,-37,-25,-63,-56,18
-2020-04-11,United Kingdom,Portsmouth,-86,-30,-19,-67,-55,19
-2020-04-11,United Kingdom,Rhondda Cynon Taff,-75,-28,-37,-54,-53,18
-2020-04-11,United Kingdom,Shropshire,-81,-37,-50,-62,-56,18
-2020-04-11,United Kingdom,Somerset,-82,-34,-48,-65,-54,18
-2020-04-11,United Kingdom,South Gloucestershire,-77,-27,-2,-56,-56,20
-2020-04-11,United Kingdom,South Lanarkshire,-73,-23,-3,-59,-57,18
-2020-04-11,United Kingdom,South Yorkshire,-81,-29,-27,-66,-55,18
-2020-04-11,United Kingdom,Southampton,-84,-26,-39,-68,-54,19
-2020-04-11,United Kingdom,Staffordshire,-81,-31,-38,-65,-58,18
-2020-04-11,United Kingdom,Stoke-on-Trent,-80,-30,-15,-71,-53,18
-2020-04-11,United Kingdom,Suffolk,-82,-37,-47,-57,-53,18
-2020-04-11,United Kingdom,Surrey,-81,-32,-42,-71,-58,21
-2020-04-11,United Kingdom,Swansea,-79,-36,-48,-70,-57,18
-2020-04-11,United Kingdom,Tyne and Wear,-80,-30,-32,-66,-59,18
-2020-04-11,United Kingdom,Warwickshire,-82,-27,-41,-70,-59,19
-2020-04-11,United Kingdom,West Midlands,-79,-31,-17,-71,-58,19
-2020-04-11,United Kingdom,West Sussex,-79,-32,-34,-84,-57,19
-2020-04-11,United Kingdom,West Yorkshire,-79,-31,-21,-69,-57,19
-2020-04-11,United Kingdom,Wiltshire,-80,-33,-47,-62,-57,18
-2020-04-11,United Kingdom,Worcestershire,-82,-34,-30,-67,-57,18
-2020-04-11,Georgia,Total,-68,-39,-25,-57,-50,16
-2020-04-11,Ghana,Total,-54,-40,-34,-58,-25,22
-2020-04-11,Greece,Total,-75,-14,-39,-65,-47,20
-2020-04-11,Greece,Crete Region,-70,-11,-41,-68,-42,19
-2020-04-11,Greece,Decentralized Administration of Attica,-78,-18,-43,-67,-51,22
-2020-04-11,Greece,Decentralized Administration of Epirus and Western Macedonia,-74,-14,-44,-60,-48,19
-2020-04-11,Greece,Decentralized Administration of Macedonia and Thrace,-76,-11,-46,-75,-48,19
-2020-04-11,Greece,"Decentralized Administration of Peloponnese, Western Greece and the Ionian",-68,-10,-37,-62,-43,17
-2020-04-11,Greece,Decentralized Administration of the Aegean,-64,-8,-13,-44,-38,15
-2020-04-11,Greece,Decentralized Administration of Thessaly and Central Greece,-73,-10,-30,-60,-43,17
-2020-04-11,Guatemala,Total,-79,-67,-66,-83,-64,29
-2020-04-11,Hong Kong,Total,-31,-4,-21,-41,-38,19
-2020-04-11,Honduras,Total,-84,-68,-65,-78,-68,28
-2020-04-11,Croatia,Total,-70,-30,-21,-65,-52,16
-2020-04-11,Croatia,City of Zagreb,-73,-36,-5,-66,-55,17
-2020-04-11,Croatia,Istria County,-60,-21,3,-63,-46,12
-2020-04-11,Croatia,Osijek-Baranja County,-69,-30,-2,-61,-51,15
-2020-04-11,Croatia,Primorje-Gorski Kotar County,-73,-30,-25,-74,-51,16
-2020-04-11,Croatia,Split-Dalmatia County,-72,-23,-31,-68,-54,19
-2020-04-11,Croatia,Zagreb County,-71,-37,-18,-62,-55,18
-2020-04-11,Haiti,Total,-38,-25,-18,-57,-26,10
-2020-04-11,Hungary,Total,-51,-4,-21,-43,-38,11
-2020-04-11,Hungary,Bács-Kiskun,-39,2,12,-28,-34,10
-2020-04-11,Hungary,Baranya,-54,0,-11,-29,-33,10
-2020-04-11,Hungary,Békés County,-32,10,20,-19,-26,7
-2020-04-11,Hungary,Borsod-Abaúj-Zemplén,-38,3,11,-20,-33,7
-2020-04-11,Hungary,Budapest,-65,-10,-49,-64,-42,13
-2020-04-11,Hungary,Csongrád,-61,-10,-12,-36,-39,11
-2020-04-11,Hungary,Fejér,-49,-3,-4,-39,-39,11
-2020-04-11,Hungary,Gyor-Moson-Sopron,-55,-9,-26,-47,-46,12
-2020-04-11,Hungary,Hajdú-Bihar,-46,-3,15,-38,-30,9
-2020-04-11,Hungary,Heves County,-42,-4,-39,-29,-42,9
-2020-04-11,Hungary,Jász-Nagykun-Szolnok,-29,7,56,-26,-30,8
-2020-04-11,Hungary,Komárom-Esztergom,-43,2,2,-30,-35,10
-2020-04-11,Hungary,Pest County,-38,-3,10,-25,-37,11
-2020-04-11,Hungary,Somogy County,-30,11,2,-15,-33,8
-2020-04-11,Hungary,Szabolcs-Szatmár-Bereg,-32,-3,15,-11,-33,9
-2020-04-11,Hungary,Vas County,-55,-3,3,-36,-48,12
-2020-04-11,Hungary,Veszprém,-40,2,-8,-26,-41,11
-2020-04-11,Hungary,Zala County,-41,-5,-21,-34,-41,10
-2020-04-11,Indonesia,Total,-43,-24,-46,-59,-30,17
-2020-04-11,Indonesia,Aceh,-24,-15,-31,-50,-19,10
-2020-04-11,Indonesia,Bali,-46,-35,-65,-73,-40,18
-2020-04-11,Indonesia,Bangka Belitung Islands,-44,-22,-39,-64,-20,13
-2020-04-11,Indonesia,Banten,-44,-23,-37,-66,-33,19
-2020-04-11,Indonesia,Bengkulu,-36,-22,-40,-55,-25,12
-2020-04-11,Indonesia,Central Java,-33,-19,-44,-56,-26,15
-2020-04-11,Indonesia,Central Kalimantan,-42,-27,-47,-47,-20,12
-2020-04-11,Indonesia,Central Sulawesi,-42,-28,-18,-58,-24,14
-2020-04-11,Indonesia,East Java,-34,-19,-47,-56,-28,15
-2020-04-11,Indonesia,East Kalimantan,-46,-22,-44,-60,-18,13
-2020-04-11,Indonesia,East Nusa Tenggara,-45,-27,-28,-53,-32,15
-2020-04-11,Indonesia,Gorontalo,-48,-31,-41,-49,-34,18
-2020-04-11,Indonesia,Jakarta,-63,-34,-61,-69,-43,22
-2020-04-11,Indonesia,Jambi,-34,-19,-38,-49,-24,12
-2020-04-11,Indonesia,Lampung,-32,-15,-37,-47,-23,12
-2020-04-11,Indonesia,Maluku,-41,-23,-21,-39,-30,12
-2020-04-11,Indonesia,North Kalimantan,-43,-20,-42,-55,-24,13
-2020-04-11,Indonesia,North Maluku,-37,-15,-28,-50,-18,11
-2020-04-11,Indonesia,North Sulawesi,-55,-32,-40,-59,-29,18
-2020-04-11,Indonesia,North Sumatra,-43,-27,-46,-53,-34,18
-2020-04-11,Indonesia,Papua,-47,-34,-40,-54,-21,14
-2020-04-11,Indonesia,Riau,-35,-23,-19,-48,-19,13
-2020-04-11,Indonesia,Riau Islands,-43,-19,-43,-67,-25,17
-2020-04-11,Indonesia,South East Sulawesi,-63,-48,-38,-60,-40,20
-2020-04-11,Indonesia,South Kalimantan,-42,-28,-49,-57,-22,16
-2020-04-11,Indonesia,South Sulawesi,-55,-36,-43,-61,-36,18
-2020-04-11,Indonesia,South Sumatra,-41,-23,-32,-50,-27,14
-2020-04-11,Indonesia,Special Region of Yogyakarta,-52,-36,-68,-73,-33,18
-2020-04-11,Indonesia,West Java,-43,-23,-42,-60,-31,18
-2020-04-11,Indonesia,West Kalimantan,-52,-30,-42,-55,-26,15
-2020-04-11,Indonesia,West Nusa Tenggara,-40,-21,-38,-58,-31,14
-2020-04-11,Indonesia,West Papua,-44,-31,-40,-73,-28,16
-2020-04-11,Indonesia,West Sulawesi,-46,-33,-62,-62,-22,16
-2020-04-11,Indonesia,West Sumatra,-39,-22,-52,-54,-33,15
-2020-04-11,Ireland,Total,-76,-12,-31,-70,-54,21
-2020-04-11,Ireland,County Cork,-76,-17,-23,-68,-53,21
-2020-04-11,Ireland,County Dublin,-77,-11,-17,-76,-60,22
-2020-04-11,Ireland,County Galway,-76,-9,-57,-54,-55,22
-2020-04-11,Ireland,County Kildare,-76,-7,-26,-57,-53,20
-2020-04-11,Ireland,County Meath,-69,0,-30,-43,-52,21
-2020-04-11,Israel,Total,-89,-37,-74,-59,-45,16
-2020-04-11,India,Total,-80,-55,-52,-69,-64,30
-2020-04-11,Iraq,Total,-60,-37,-40,-58,-38,17
-2020-04-11,Italy,Total,-86,-42,-83,-78,-62,26
-2020-04-11,Italy,Abruzzo,-85,-38,-84,-84,-64,28
-2020-04-11,Italy,Apulia,-82,-40,-81,-81,-61,26
-2020-04-11,Italy,Basilicata,-82,-41,-73,-75,-61,25
-2020-04-11,Italy,Calabria,-85,-43,-81,-82,-62,25
-2020-04-11,Italy,Campania,-86,-42,-82,-78,-64,26
-2020-04-11,Italy,Emilia-Romagna,-87,-38,-84,-79,-63,27
-2020-04-11,Italy,Friuli-Venezia Giulia,-86,-36,-82,-74,-59,27
-2020-04-11,Italy,Lazio,-85,-41,-83,-78,-59,25
-2020-04-11,Italy,Liguria,-84,-43,-86,-76,-55,25
-2020-04-11,Italy,Lombardy,-89,-47,-83,-82,-67,27
-2020-04-11,Italy,Marche,-86,-40,-85,-77,-65,30
-2020-04-11,Italy,Molise,-83,-39,-78,-71,-62,27
-2020-04-11,Italy,Piedmont,-85,-42,-81,-76,-59,26
-2020-04-11,Italy,Sardinia,-83,-34,-79,-70,-56,24
-2020-04-11,Italy,Sicily,-83,-41,-82,-79,-60,24
-2020-04-11,Italy,Trentino-South Tyrol,-88,-53,-88,-80,-59,25
-2020-04-11,Italy,Tuscany,-85,-44,-82,-75,-62,27
-2020-04-11,Italy,Umbria,-86,-39,-76,-71,-60,27
-2020-04-11,Italy,Veneto,-87,-38,-86,-82,-62,27
-2020-04-11,Jamaica,Total,-57,-39,-57,-53,-42,20
-2020-04-11,Jordan,Total,-93,-89,-78,-95,-81,31
-2020-04-11,Japan,Total,-30,4,3,-48,-22,12
-2020-04-11,Japan,Aichi,-28,4,7,-52,-20,12
-2020-04-11,Japan,Akita,-10,6,52,-30,-14,7
-2020-04-11,Japan,Aomori,-19,2,2,-33,-13,7
-2020-04-11,Japan,Chiba,-34,3,17,-53,-26,13
-2020-04-11,Japan,Ehime,-21,5,15,-35,-13,8
-2020-04-11,Japan,Fukui,-33,2,19,-44,-23,12
-2020-04-11,Japan,Fukuoka,-33,0,-6,-60,-26,13
-2020-04-11,Japan,Fukushima,-18,3,46,-38,-17,9
-2020-04-11,Japan,Gifu,-31,4,-12,-48,-21,12
-2020-04-11,Japan,Gunma,-23,-1,7,-47,-17,10
-2020-04-11,Japan,Hiroshima,-29,2,-9,-48,-18,11
-2020-04-11,Japan,Hokkaido,-17,3,-8,-39,-12,7
-2020-04-11,Japan,Hyogo,-31,7,7,-51,-24,12
-2020-04-11,Japan,Ibaraki,-20,2,8,-48,-17,10
-2020-04-11,Japan,Ishikawa,-25,7,-2,-50,-20,10
-2020-04-11,Japan,Iwate,-11,7,36,-33,-13,7
-2020-04-11,Japan,Kagawa,-19,6,9,-39,-15,7
-2020-04-11,Japan,Kagoshima,-13,7,10,-34,-9,6
-2020-04-11,Japan,Kanagawa,-37,4,10,-52,-30,15
-2020-04-11,Japan,Kochi,-29,-1,-9,-32,-18,10
-2020-04-11,Japan,Kumamoto,-20,4,-1,-34,-14,9
-2020-04-11,Japan,Kyoto,-32,3,-11,-55,-22,11
-2020-04-11,Japan,Mie,-20,6,-12,-49,-14,9
-2020-04-11,Japan,Miyagi,-30,3,30,-52,-20,10
-2020-04-11,Japan,Miyazaki,-17,4,0,-36,-13,8
-2020-04-11,Japan,Nagano,-27,0,4,-50,-16,10
-2020-04-11,Japan,Nagasaki,-18,5,-6,-40,-13,8
-2020-04-11,Japan,Nara,-17,12,5,-44,-19,9
-2020-04-11,Japan,Niigata,-13,3,39,-42,-18,8
-2020-04-11,Japan,Oita,-20,2,-9,-36,-16,9
-2020-04-11,Japan,Okayama,-16,5,21,-41,-16,8
-2020-04-11,Japan,Okinawa,-34,-6,-38,-54,-16,12
-2020-04-11,Japan,Osaka,-40,3,3,-56,-28,13
-2020-04-11,Japan,Saga,-18,1,-17,-42,-14,10
-2020-04-11,Japan,Saitama,-29,6,14,-54,-26,13
-2020-04-11,Japan,Shiga,-20,8,33,-48,-17,9
-2020-04-11,Japan,Shimane,-21,7,-4,-31,-16,8
-2020-04-11,Japan,Shizuoka,-26,5,0,-53,-18,10
-2020-04-11,Japan,Tochigi,-26,1,0,-50,-16,10
-2020-04-11,Japan,Tokushima,-18,6,13,-30,-11,7
-2020-04-11,Japan,Tokyo,-52,1,-6,-59,-37,17
-2020-04-11,Japan,Tottori,-19,9,2,-38,-14,7
-2020-04-11,Japan,Toyama,-25,6,22,-42,-19,10
-2020-04-11,Japan,Wakayama,-22,6,12,-39,-14,8
-2020-04-11,Japan,Yamagata,-24,0,40,-45,-23,11
-2020-04-11,Japan,Yamaguchi,-16,5,6,-33,-15,8
-2020-04-11,Japan,Yamanashi,-26,-1,-18,-52,-17,11
-2020-04-11,Kenya,Total,-47,-33,-23,-41,-29,21
-2020-04-11,Kenya,Kajiado County,-37,-18,-35,-27,-23,23
-2020-04-11,Kenya,Kiambu County,-38,-31,-14,-35,-29,24
-2020-04-11,Kenya,Kisumu County,-51,-13,-48,-50,-20,17
-2020-04-11,Kenya,Machakos County,-51,13,-47,-39,-22,22
-2020-04-11,Kenya,Mombasa County,-55,-47,-49,-55,-33,22
-2020-04-11,Kenya,Nairobi County,-54,-39,-46,-48,-35,25
-2020-04-11,Kenya,Nakuru County,-38,-35,-37,-48,-22,18
-2020-04-11,Kenya,Uasin Gishu County,-34,-45,-21,-50,-23,15
-2020-04-11,Kyrgyzstan,Total,-75,-62,-35,-71,-57,20
-2020-04-11,Cambodia,Total,-44,-26,-33,-63,-31,15
-2020-04-11,South Korea,Total,-16,10,17,-13,-7,6
-2020-04-11,Kuwait,Total,-62,-34,-53,-56,-48,25
-2020-04-11,Kuwait,Al Ahmadi Governorate,-59,-30,-44,-37,-46,25
-2020-04-11,Kuwait,Al Asimah Governate,-73,-38,-64,-52,-47,22
-2020-04-11,Kuwait,Al Farwaniyah Governorate,-57,-40,-51,-68,-55,31
-2020-04-11,Kuwait,Al Jahra Governorate,-52,-25,-37,-14,-29,19
-2020-04-11,Kuwait,Hawalli Governorate,-63,-31,-58,-42,-51,22
-2020-04-11,Kazakhstan,Total,-58,-36,-28,-43,-44,14
-2020-04-11,Laos,Total,-59,-40,-26,-68,-20,17
-2020-04-11,Lebanon,Total,-65,-31,-45,-78,-48,16
-2020-04-11,Sri Lanka,Total,-84,-81,-53,-76,-59,36
-2020-04-11,Lithuania,Total,-69,-22,-13,-59,-39,16
-2020-04-11,Lithuania,Kaunas County,-70,-20,-21,-63,-40,16
-2020-04-11,Lithuania,Klaipėda County,-68,-17,-43,-52,-41,15
-2020-04-11,Lithuania,Šiauliai County,-69,-29,-20,-14,-33,13
-2020-04-11,Lithuania,Vilnius County,-70,-19,8,-63,-43,17
-2020-04-11,Luxembourg,Total,-82,-32,-20,-65,-58,22
-2020-04-11,Latvia,Total,-39,-6,22,-33,-31,7
-2020-04-11,Latvia,Riga,-52,-20,-32,-47,-38,7
-2020-04-11,Libya,Total,-46,-23,-29,-47,-30,10
-2020-04-11,Moldova,Total,-62,-39,-37,-64,-41,12
-2020-04-11,North Macedonia,Total,-95,-95,-79,-93,-82,28
-2020-04-11,Mali,Total,-22,-17,-10,-33,-4,10
-2020-04-11,Myanmar (Burma),Total,-66,-49,-24,-64,-48,22
-2020-04-11,Mongolia,Total,-8,15,14,-3,-1,0
-2020-04-11,Malta,Total,-71,-11,-41,-51,-50,20
-2020-04-11,Mauritius,Total,-83,-63,-83,-86,-63,27
-2020-04-11,Mexico,Total,-66,-26,-54,-63,-49,20
-2020-04-11,Mexico,Aguascalientes,-66,-17,-38,-74,-49,19
-2020-04-11,Mexico,Baja California,-66,-17,-54,-67,-49,22
-2020-04-11,Mexico,Baja California Sur,-76,-37,-67,-78,-61,26
-2020-04-11,Mexico,Campeche,-64,-34,-58,-62,-42,20
-2020-04-11,Mexico,Chiapas,-69,-33,-53,-61,-47,17
-2020-04-11,Mexico,Chihuahua,-68,-28,-56,-66,-50,20
-2020-04-11,Mexico,Coahuila,-69,-27,-62,-58,-53,20
-2020-04-11,Mexico,Colima,-65,-26,-48,-69,-43,20
-2020-04-11,Mexico,Durango,-62,-30,-49,-60,-46,17
-2020-04-11,Mexico,Guanajuato,-65,-21,-54,-57,-50,19
-2020-04-11,Mexico,Guerrero,-66,-30,-59,-62,-38,16
-2020-04-11,Mexico,Hidalgo,-57,-22,-38,-61,-41,17
-2020-04-11,Mexico,Jalisco,-64,-24,-49,-66,-51,19
-2020-04-11,Mexico,Mexico City,-74,-36,-67,-67,-52,22
-2020-04-11,Mexico,Michoacán,-60,-23,-31,-55,-41,16
-2020-04-11,Mexico,Morelos,-60,-24,-52,-58,-39,19
-2020-04-11,Mexico,Nayarit,-72,-33,-64,-60,-49,21
-2020-04-11,Mexico,Nuevo Leon,-66,-23,-57,-64,-55,21
-2020-04-11,Mexico,Oaxaca,-65,-36,-59,-59,-41,17
-2020-04-11,Mexico,Puebla,-65,-22,-44,-49,-47,18
-2020-04-11,Mexico,Querétaro,-67,-25,-59,-47,-51,21
-2020-04-11,Mexico,Quintana Roo,-75,-37,-70,-87,-59,28
-2020-04-11,Mexico,San Luis Potosi,-64,-26,-62,-59,-51,19
-2020-04-11,Mexico,Sinaloa,-71,-32,-55,-72,-57,22
-2020-04-11,Mexico,Sonora,-71,-28,-59,-66,-55,21
-2020-04-11,Mexico,State of Mexico,-60,-19,-41,-58,-46,18
-2020-04-11,Mexico,Tabasco,-70,-37,-54,-59,-49,20
-2020-04-11,Mexico,Tamaulipas,-63,-23,-58,-61,-46,18
-2020-04-11,Mexico,Tlaxcala,-58,-18,-42,-51,-43,15
-2020-04-11,Mexico,Veracruz,-59,-19,-44,-56,-37,16
-2020-04-11,Mexico,Yucatan,-73,-38,-66,-79,-52,26
-2020-04-11,Mexico,Zacatecas,-64,-32,-53,-64,-41,16
-2020-04-11,Malaysia,Total,-78,-49,-68,-82,-53,35
-2020-04-11,Mozambique,Total,-26,-14,-32,-29,-6,11
-2020-04-11,Namibia,Total,-55,-32,-41,-71,-38,18
-2020-04-11,Niger,Total,-23,-14,-21,-35,-10,11
-2020-04-11,Nigeria,Total,-52,-35,-41,-48,-27,19
-2020-04-11,Nigeria,Anambra,-41,-44,-27,-50,-28,12
-2020-04-11,Nigeria,Delta,-57,-49,-29,-52,-27,22
-2020-04-11,Nigeria,Edo,-47,-26,-15,-39,-15,12
-2020-04-11,Nigeria,Enugu,-49,-32,-40,-42,-28,12
-2020-04-11,Nigeria,Federal Capital Territory,-58,-36,-56,-79,-37,24
-2020-04-11,Nigeria,Imo,-46,-37,-14,-52,-14,11
-2020-04-11,Nigeria,Kaduna,-59,-41,-30,-48,-25,19
-2020-04-11,Nigeria,Kano,-17,-15,-7,-25,-4,4
-2020-04-11,Nigeria,Kwara,-71,-69,-32,-72,-40,24
-2020-04-11,Nigeria,Lagos,-67,-50,-64,-51,-45,28
-2020-04-11,Nigeria,Ogun State,-31,-11,-23,-31,-23,17
-2020-04-11,Nigeria,Ondo,-32,-28,-27,-14,-6,8
-2020-04-11,Nigeria,Osun,-50,-41,-17,-48,-28,12
-2020-04-11,Nigeria,Oyo,-39,-27,-25,-30,-15,12
-2020-04-11,Nigeria,Rivers,-29,-11,-14,-39,-7,13
-2020-04-11,Nicaragua,Total,-56,-38,-33,-53,-46,16
-2020-04-11,Netherlands,Total,-46,-4,33,-51,-24,11
-2020-04-11,Netherlands,Drenthe,-38,1,26,-32,-18,10
-2020-04-11,Netherlands,Flevoland,-36,-4,91,-43,-24,10
-2020-04-11,Netherlands,Friesland,-41,-5,106,-25,-17,9
-2020-04-11,Netherlands,Gelderland,-43,0,41,-38,-21,10
-2020-04-11,Netherlands,Groningen,-47,-7,64,-46,-24,10
-2020-04-11,Netherlands,Limburg,-54,-4,1,-41,-26,11
-2020-04-11,Netherlands,North Brabant,-47,-1,35,-51,-23,11
-2020-04-11,Netherlands,North Holland,-51,-9,16,-67,-30,12
-2020-04-11,Netherlands,Overijssel,-44,-4,60,-51,-21,11
-2020-04-11,Netherlands,South Holland,-44,-3,39,-49,-26,11
-2020-04-11,Netherlands,Utrecht,-44,-4,22,-60,-25,12
-2020-04-11,Netherlands,Zeeland,-48,-7,-16,-30,-22,11
-2020-04-11,Norway,Total,-43,-2,-2,-55,-36,9
-2020-04-11,Norway,Agder,-39,-3,-38,-40,-33,10
-2020-04-11,Norway,Innlandet,-44,-5,-21,-50,-32,8
-2020-04-11,Norway,Møre og Romsdal,-36,1,66,-26,-31,6
-2020-04-11,Norway,Nordland,-44,-2,78,-57,-32,3
-2020-04-11,Norway,Oslo,-60,-8,-39,-66,-47,13
-2020-04-11,Norway,Rogaland,-41,-6,2,-57,-33,11
-2020-04-11,Norway,Troms Og Finnmark,-58,-14,41,-56,-35,5
-2020-04-11,Norway,Trondelag,-45,-3,87,-41,-37,6
-2020-04-11,Norway,Vestfold Og Telemark,-36,2,-29,-52,-32,10
-2020-04-11,Norway,Vestland,-41,-9,-27,-54,-35,9
-2020-04-11,Norway,Viken,-31,8,-17,-61,-35,10
-2020-04-11,Nepal,Total,-77,-68,-55,-71,-50,21
-2020-04-11,New Zealand,Total,-88,-33,-75,-82,-58,24
-2020-04-11,New Zealand,Auckland,-85,-31,-68,-83,-65,27
-2020-04-11,New Zealand,Bay Of Plenty,-89,-29,-85,-78,-50,23
-2020-04-11,New Zealand,Canterbury,-87,-28,-74,-84,-58,24
-2020-04-11,New Zealand,Waikato,-91,-36,-84,-78,-55,24
-2020-04-11,New Zealand,Wellington,-89,-35,-65,-82,-61,25
-2020-04-11,Oman,Total,-61,-47,-53,-71,-37,20
-2020-04-11,Panama,Total,-96,-95,-86,-91,-84,45
-2020-04-11,Peru,Total,-81,-51,-72,-81,-67,34
-2020-04-11,Peru,Ancash,-77,-50,-61,-86,-58,30
-2020-04-11,Peru,Arequipa,-79,-54,-68,-73,-66,35
-2020-04-11,Peru,Ayacucho,-70,-34,-64,-85,-51,31
-2020-04-11,Peru,Cajamarca,-73,-43,-64,-85,-55,30
-2020-04-11,Peru,Callao Region,-75,-48,-71,-90,-70,34
-2020-04-11,Peru,Cusco,-84,-63,-72,-84,-61,37
-2020-04-11,Peru,Huanuco,-76,-53,-67,-83,-53,29
-2020-04-11,Peru,Ica,-74,-40,-70,-88,-58,32
-2020-04-11,Peru,Junin,-76,-52,-58,-81,-58,33
-2020-04-11,Peru,La Libertad,-82,-47,-69,-81,-64,33
-2020-04-11,Peru,Lambayeque,-82,-59,-68,-89,-66,32
-2020-04-11,Peru,Lima Region,-75,-51,-73,-85,-51,29
-2020-04-11,Peru,Loreto,-81,-58,-69,-69,-57,31
-2020-04-11,Peru,Metropolitan Municipality of Lima,-84,-51,-80,-81,-74,37
-2020-04-11,Peru,Piura,-76,-52,-66,-84,-58,30
-2020-04-11,Peru,Puno,-71,-52,-56,-75,-52,31
-2020-04-11,Peru,San Martin,-74,-40,-55,-78,-54,28
-2020-04-11,Peru,Tacna,-81,-51,-74,-83,-64,34
-2020-04-11,Peru,Ucayali,-67,-7,-55,-84,-53,28
-2020-04-11,Papua New Guinea,Total,-25,-9,-9,-40,-12,10
-2020-04-11,Philippines,Total,-82,-60,-59,-86,-67,32
-2020-04-11,Pakistan,Total,-65,-47,-36,-55,-48,19
-2020-04-11,Poland,Total,-76,-57,-57,-64,-48,17
-2020-04-11,Poland,Greater Poland Voivodeship,-73,-57,-42,-64,-50,18
-2020-04-11,Poland,Kuyavian-Pomeranian Voivodeship,-71,-54,-35,-70,-44,16
-2020-04-11,Poland,Lesser Poland Voivodeship,-83,-62,-80,-75,-54,19
-2020-04-11,Poland,Łódź Voivodeship,-73,-56,-48,-59,-47,17
-2020-04-11,Poland,Lower Silesian Voivodeship,-76,-60,-56,-68,-48,17
-2020-04-11,Poland,Lublin Voivodeship,-78,-58,-48,-67,-47,17
-2020-04-11,Poland,Lubusz Voivodeship,-70,-59,-29,-61,-44,16
-2020-04-11,Poland,Masovian Voivodeship,-76,-56,-64,-66,-50,18
-2020-04-11,Poland,Opole Voivodeship,-75,-59,-36,-66,-47,16
-2020-04-11,Poland,Podkarpackie Voivodeship,-80,-60,-53,-70,-51,18
-2020-04-11,Poland,Podlaskie Voivodeship,-77,-53,-36,-58,-44,16
-2020-04-11,Poland,Pomeranian Voivodeship,-71,-54,-61,-66,-46,17
-2020-04-11,Poland,Silesian Voivodeship,-75,-58,-49,-57,-48,18
-2020-04-11,Poland,Swietokrzyskie,-79,-58,-47,-63,-49,17
-2020-04-11,Poland,Warmian-Masurian Voivodeship,-71,-53,-30,-57,-43,15
-2020-04-11,Poland,West Pomeranian Voivodeship,-73,-59,-62,-56,-44,15
-2020-04-11,Puerto Rico,Total,-87,-87,-78,-86,-65,29
-2020-04-11,Portugal,Total,-78,-40,-73,-77,-58,26
-2020-04-11,Portugal,Aveiro District,-77,-38,-74,-80,-57,28
-2020-04-11,Portugal,Braga,-76,-35,-76,-70,-57,29
-2020-04-11,Portugal,Coimbra District,-77,-39,-83,-78,-54,26
-2020-04-11,Portugal,Faro District,-79,-45,-75,-83,-57,25
-2020-04-11,Portugal,Leiria District,-79,-40,-81,-79,-55,27
-2020-04-11,Portugal,Lisbon,-80,-41,-73,-79,-62,27
-2020-04-11,Portugal,Madeira,-85,-50,-81,-78,-66,29
-2020-04-11,Portugal,Porto District,-79,-38,-76,-77,-60,29
-2020-04-11,Portugal,Santarém District,-79,-42,-68,-83,-50,24
-2020-04-11,Portugal,Setubal,-77,-39,-65,-72,-59,26
-2020-04-11,Portugal,Viana do Castelo District,-78,-50,-74,-72,-54,27
-2020-04-11,Portugal,Viseu District,-76,-42,-56,-52,-52,24
-2020-04-11,Paraguay,Total,-75,-53,-71,-81,-59,32
-2020-04-11,Qatar,Total,-63,-35,-48,-60,-39,23
-2020-04-11,Romania,Total,-67,-29,-50,-59,-33,12
-2020-04-11,Romania,Alba County,-65,-31,-24,-37,-32,10
-2020-04-11,Romania,Arad County,-64,-27,-24,-53,-35,12
-2020-04-11,Romania,Argeș County,-63,-29,-31,-59,-34,12
-2020-04-11,Romania,Bacău County,-64,-29,-36,-57,-29,10
-2020-04-11,Romania,Bihor County,-65,-29,-34,-47,-32,11
-2020-04-11,Romania,Bistrița-Năsăud County,-64,-37,-25,-43,-33,8
-2020-04-11,Romania,Botoșani County,-60,-27,-1,-49,-24,9
-2020-04-11,Romania,Brăila County,-60,-22,-59,-53,-29,11
-2020-04-11,Romania,Brașov County,-75,-41,-76,-68,-40,15
-2020-04-11,Romania,Bucharest,-75,-30,-79,-64,-41,17
-2020-04-11,Romania,Buzău County,-55,-28,-37,-26,-23,9
-2020-04-11,Romania,Călărași County,-39,-18,-35,-50,-19,11
-2020-04-11,Romania,Caraș-Severin County,-66,-30,-38,-42,-32,10
-2020-04-11,Romania,Cluj County,-73,-41,-45,-65,-38,14
-2020-04-11,Romania,Constanța County,-65,-23,-67,-59,-30,13
-2020-04-11,Romania,Dâmbovița County,-59,-21,-41,-33,-30,11
-2020-04-11,Romania,Dolj County,-66,-25,-46,-53,-29,10
-2020-04-11,Romania,Galați,-64,-23,-55,-52,-30,11
-2020-04-11,Romania,Giurgiu County,-46,-9,-18,-24,-18,10
-2020-04-11,Romania,Gorj County,-56,-20,-32,-56,-26,10
-2020-04-11,Romania,Hunedoara County,-65,-27,-45,-49,-31,9
-2020-04-11,Romania,Ialomița County,-46,-21,-28,-50,-22,10
-2020-04-11,Romania,Iași County,-68,-31,-40,-55,-36,12
-2020-04-11,Romania,Ilfov County,-68,-17,-37,-71,-37,16
-2020-04-11,Romania,Maramureș County,-63,-33,-25,-50,-39,10
-2020-04-11,Romania,Mureș County,-67,-33,-48,-54,-31,12
-2020-04-11,Romania,Neamț County,-64,-27,-44,-50,-32,11
-2020-04-11,Romania,Olt County,-56,-17,-39,-40,-21,8
-2020-04-11,Romania,Prahova,-70,-30,-65,-63,-31,12
-2020-04-11,Romania,Satu Mare County,-65,-27,-16,-48,-37,12
-2020-04-11,Romania,Sibiu,-68,-34,-57,-61,-35,11
-2020-04-11,Romania,Suceava County,-71,-43,-36,-66,-37,13
-2020-04-11,Romania,Teleorman County,-46,-15,-1,-37,-17,8
-2020-04-11,Romania,Timiș County,-67,-29,-55,-62,-38,14
-2020-04-11,Romania,Vâlcea County,-63,-20,-43,-51,-27,10
-2020-04-11,Romania,Vaslui County,-59,-28,-7,-52,-27,9
-2020-04-11,Romania,Vrancea County,-63,-26,-16,-55,-26,9
-2020-04-11,Rwanda,Total,-62,-56,-14,-72,-37,25
-2020-04-11,Saudi Arabia,Total,-72,-36,-68,-83,-49,25
-2020-04-11,Saudi Arabia,Al Jowf,-43,-18,-36,-62,-21,14
-2020-04-11,Saudi Arabia,Al Madinah Province,-75,-47,-72,-89,-53,27
-2020-04-11,Saudi Arabia,Al Qassim,-51,-24,-56,-71,-27,19
-2020-04-11,Saudi Arabia,Aseer Province,-46,-16,-46,-75,-24,18
-2020-04-11,Saudi Arabia,Eastern Province,-72,-36,-60,-82,-45,25
-2020-04-11,Saudi Arabia,Hail Province,-41,-15,-53,-70,-25,14
-2020-04-11,Saudi Arabia,Jazan,-51,-25,-60,-52,-21,16
-2020-04-11,Saudi Arabia,Makkah Province,-78,-43,-80,-85,-57,27
-2020-04-11,Saudi Arabia,Riyadh Province,-76,-36,-71,-88,-56,27
-2020-04-11,Saudi Arabia,Tabuk Province,-69,-36,-57,-37,-43,22
-2020-04-11,Sweden,Total,-41,-15,84,-36,-24,6
-2020-04-11,Sweden,Dalarna County,-56,-25,65,-25,-25,5
-2020-04-11,Sweden,Gavleborg County,-44,-19,82,-26,-23,5
-2020-04-11,Sweden,Jonkoping County,-38,-15,101,-24,-25,5
-2020-04-11,Sweden,Stockholm County,-42,-17,44,-45,-27,7
-2020-04-11,Sweden,Uppsala County,-45,-13,103,-39,-22,6
-2020-04-11,Sweden,Varmland County,-49,-17,1,-19,-19,5
-2020-04-11,Sweden,Västerbotten County,-53,-25,188,-37,-29,2
-2020-04-11,Sweden,Västra Götaland County,-45,-16,67,-41,-24,7
-2020-04-11,Singapore,Total,-61,-21,-51,-66,-51,32
-2020-04-11,Slovenia,Total,-76,-39,-34,-47,-46,15
-2020-04-11,Slovenia,Ljubljana,-76,-33,-38,-49,-44,15
-2020-04-11,Slovakia,Total,-79,-12,-4,-56,-39,12
-2020-04-11,Slovakia,Banská Bystrica Region,-84,-15,9,-49,-34,10
-2020-04-11,Slovakia,Bratislava Region,-79,-5,20,-59,-40,14
-2020-04-11,Slovakia,Košice Region,-77,-12,56,-54,-38,12
-2020-04-11,Slovakia,Nitra Region,-78,-16,27,-48,-36,12
-2020-04-11,Slovakia,Prešov Region,-85,-24,-65,-73,-42,12
-2020-04-11,Slovakia,Trenčín Region,-78,-10,4,-54,-39,11
-2020-04-11,Slovakia,Trnava Region,-77,-10,64,-66,-40,13
-2020-04-11,Slovakia,Žilina Region,-82,-14,-29,-58,-41,11
-2020-04-11,Senegal,Total,-43,-30,-31,-49,-22,15
-2020-04-11,El Salvador,Total,-84,-66,-76,-80,-72,33
-2020-04-11,Togo,Total,-37,-24,-20,-47,-16,18
-2020-04-11,Thailand,Total,-51,-21,-57,-63,-22,17
-2020-04-11,Tajikistan,Total,-9,-8,-14,-15,15,0
-2020-04-11,Turkey,Total,-92,-83,-81,-90,-78,34
-2020-04-11,Trinidad and Tobago,Total,-70,-32,-63,-77,-53,22
-2020-04-11,Taiwan,Total,-18,0,-20,-32,4,6
-2020-04-11,Tanzania,Total,-23,-6,-15,-16,-17,7
-2020-04-11,Uganda,Total,-68,-51,-20,-70,-49,30
-2020-04-11,United States,Total,-45,-7,-16,-49,-38,14
-2020-04-11,United States,Alabama,-39,3,11,-35,-29,10
-2020-04-11,United States,Alaska,-41,-4,36,-52,-32,10
-2020-04-11,United States,Arizona,-43,-14,-42,-45,-36,14
-2020-04-11,United States,Arkansas,-35,1,1,-34,-26,10
-2020-04-11,United States,California,-48,-14,-46,-53,-40,18
-2020-04-11,United States,Colorado,-46,-11,-2,-53,-40,14
-2020-04-11,United States,Connecticut,-44,-9,76,-54,-40,15
-2020-04-11,United States,Delaware,-41,-16,26,-48,-37,14
-2020-04-11,United States,District of Columbia,-69,-28,-65,-69,-48,17
-2020-04-11,United States,Florida,-49,-20,-54,-65,-40,15
-2020-04-11,United States,Georgia,-40,-5,3,-53,-36,13
-2020-04-11,United States,Hawaii,-55,-29,-66,-74,-47,18
-2020-04-11,United States,Idaho,-40,0,12,-35,-34,11
-2020-04-11,United States,Illinois,-46,-1,10,-46,-38,14
-2020-04-11,United States,Indiana,-40,-2,70,-29,-36,12
-2020-04-11,United States,Iowa,-44,7,40,-28,-28,12
-2020-04-11,United States,Kansas,-41,-3,97,-23,-31,11
-2020-04-11,United States,Kentucky,-39,3,60,-36,-33,10
-2020-04-11,United States,Louisiana,-45,-2,-35,-54,-36,14
-2020-04-11,United States,Maine,-43,-2,-16,-55,-33,10
-2020-04-11,United States,Maryland,-43,-14,24,-49,-39,15
-2020-04-11,United States,Massachusetts,-49,-12,33,-64,-44,16
-2020-04-11,United States,Michigan,-58,-15,59,-51,-45,16
-2020-04-11,United States,Minnesota,-44,-2,50,-51,-36,14
-2020-04-11,United States,Mississippi,-35,1,-12,-38,-32,11
-2020-04-11,United States,Missouri,-44,1,16,-36,-32,12
-2020-04-11,United States,Montana,-55,-11,-51,-46,-39,15
-2020-04-11,United States,Nebraska,-39,4,52,-21,-29,11
-2020-04-11,United States,Nevada,-45,-13,-43,-55,-53,16
-2020-04-11,United States,New Hampshire,-42,-7,4,-51,-37,13
-2020-04-11,United States,New Jersey,-61,-3,-12,-65,-47,18
-2020-04-11,United States,New Mexico,-46,-10,-22,-36,-36,14
-2020-04-11,United States,New York,-62,-4,-12,-65,-48,18
-2020-04-11,United States,North Carolina,-40,-5,20,-49,-35,11
-2020-04-11,United States,North Dakota,-48,1,-18,-43,-28,15
-2020-04-11,United States,Ohio,-41,-2,82,-28,-37,12
-2020-04-11,United States,Oklahoma,-38,-1,-8,-27,-32,12
-2020-04-11,United States,Oregon,-45,-7,16,-41,-36,12
-2020-04-11,United States,Pennsylvania,-47,-12,19,-50,-40,15
-2020-04-11,United States,Rhode Island,-45,-4,45,-57,-40,15
-2020-04-11,United States,South Carolina,-41,-2,-24,-45,-34,11
-2020-04-11,United States,South Dakota,-47,1,-16,-42,-31,15
-2020-04-11,United States,Tennessee,-40,2,11,-36,-33,10
-2020-04-11,United States,Texas,-45,-14,-54,-49,-38,16
-2020-04-11,United States,Utah,-42,-4,28,-43,-34,12
-2020-04-11,United States,Vermont,-54,-23,-4,-64,-44,15
-2020-04-11,United States,Virginia,-40,-9,17,-49,-36,13
-2020-04-11,United States,Washington,-47,-10,3,-50,-41,14
-2020-04-11,United States,West Virginia,-38,-5,12,-39,-31,10
-2020-04-11,United States,Wisconsin,-47,-2,67,-34,-33,13
-2020-04-11,United States,Wyoming,-41,-2,-25,-15,-30,12
-2020-04-11,Uruguay,Total,-68,-29,-75,-63,-43,20
-2020-04-11,Uruguay,Canelones Department,-65,-34,-75,-66,-41,20
-2020-04-11,Uruguay,Colonia Department,-73,-34,-82,-82,-40,22
-2020-04-11,Uruguay,Maldonado Department,-86,-57,-91,-82,-59,24
-2020-04-11,Uruguay,Montevideo Department,-65,-19,-65,-51,-45,22
-2020-04-11,Uruguay,Salto Department,-56,-16,-66,-67,-32,17
-2020-04-11,Venezuela,Total,-66,-46,-60,-65,-40,20
-2020-04-11,Vietnam,Total,-59,-33,-43,-58,-29,21
-2020-04-11,Yemen,Total,-9,-1,-8,-12,-6,6
-2020-04-11,South Africa,Total,-75,-46,-58,-78,-56,27
-2020-04-11,South Africa,Eastern Cape,-80,-49,-39,-79,-53,24
-2020-04-11,South Africa,Free State,-77,-44,-52,-69,-47,23
-2020-04-11,South Africa,Gauteng,-74,-45,-65,-79,-58,27
-2020-04-11,South Africa,KwaZulu-Natal,-77,-49,-46,-81,-56,27
-2020-04-11,South Africa,Limpopo,-70,-53,-23,-67,-49,25
-2020-04-11,South Africa,Mpumalanga,-71,-40,-34,-61,-45,24
-2020-04-11,South Africa,North West,-74,-46,-47,-62,-49,25
-2020-04-11,South Africa,Western Cape,-80,-50,-85,-83,-62,28
-2020-04-11,Zambia,Total,-26,-16,-4,-28,-16,13
-2020-04-11,Zimbabwe,Total,-69,-56,-48,-81,-58,36
+Date,Country,Region,Retail & recreation,Grocery & pharmacy,Parks,Transit stations,Workplaces,Residential,,,,,,,,,
+4/17/2020,United Arab Emirates,Total,-73,-45,-85,-84,-48,23,,,,,,,,,
+4/17/2020,United Arab Emirates,Abu Dhabi,-62,-32,-78,-82,-40,20,,,,,,,,,
+4/17/2020,United Arab Emirates,Ajman,-60,-40,-91,-54,-40,21,,,,,,,,,
+4/17/2020,United Arab Emirates,Dubai,-84,-56,-88,-85,-58,27,,,,,,,,,
+4/17/2020,United Arab Emirates,Ras al Khaimah,-57,-31,-68,-74,-30,18,,,,,,,,,
+4/17/2020,United Arab Emirates,Sharjah,-63,-44,-90,-80,-39,20,,,,,,,,,
+4/17/2020,Afghanistan,Total,-41,-21,-12,-51,-13,11,,,,,,,,,
+4/17/2020,Angola,Total,-56,-37,-43,-63,-50,31,,,,,,,,,
+4/17/2020,Argentina,Total,-83,-29,-92,-61,-52,28,,,,,,,,,
+4/17/2020,Argentina,Buenos Aires,-87,-24,-93,-71,-71,38,,,,,,,,,
+4/17/2020,Argentina,Buenos Aires Province,-83,-28,-94,-58,-55,29,,,,,,,,,
+4/17/2020,Argentina,Catamarca Province,-73,-9,-90,-54,-29,22,,,,,,,,,
+4/17/2020,Argentina,Chaco Province,-81,-27,-92,-76,-41,22,,,,,,,,,
+4/17/2020,Argentina,Chubut Province,-83,-32,-92,-76,-47,28,,,,,,,,,
+4/17/2020,Argentina,Cordoba,-83,-34,-93,-77,-50,28,,,,,,,,,
+4/17/2020,Argentina,Corrientes,-79,-35,-89,-76,-36,22,,,,,,,,,
+4/17/2020,Argentina,Entre Rios,-81,-30,-92,-72,-37,23,,,,,,,,,
+4/17/2020,Argentina,Formosa Province,-83,-18,-85,-3,-27,17,,,,,,,,,
+4/17/2020,Argentina,Jujuy,-81,-32,-87,-80,-37,23,,,,,,,,,
+4/17/2020,Argentina,La Pampa,-82,-31,-89,-67,-42,25,,,,,,,,,
+4/17/2020,Argentina,La Rioja Province,-75,-25,-95,-63,-43,24,,,,,,,,,
+4/17/2020,Argentina,Mendoza Province,-80,-29,-90,-49,-46,29,,,,,,,,,
+4/17/2020,Argentina,Misiones Province,-78,-34,-82,-81,-34,22,,,,,,,,,
+4/17/2020,Argentina,Neuquen,-84,-38,-92,-62,-54,33,,,,,,,,,
+4/17/2020,Argentina,Río Negro,-86,-46,-90,-91,-50,31,,,,,,,,,
+4/17/2020,Argentina,Salta Province,-80,-32,-87,-40,-41,23,,,,,,,,,
+4/17/2020,Argentina,San Juan Province,-78,-12,-92,-77,-37,24,,,,,,,,,
+4/17/2020,Argentina,San Luis Province,-85,-39,-93,-79,-47,26,,,,,,,,,
+4/17/2020,Argentina,Santa Cruz Province,-80,-32,-87,-88,-45,27,,,,,,,,,
+4/17/2020,Argentina,Santa Fe Province,-81,-28,-94,-32,-47,27,,,,,,,,,
+4/17/2020,Argentina,Santiago del Estero Province,-80,-31,-87,-82,-43,23,,,,,,,,,
+4/17/2020,Argentina,Tierra del Fuego Province,-85,-50,-89,-83,-63,35,,,,,,,,,
+4/17/2020,Argentina,Tucumán,-79,-22,-84,-59,-43,23,,,,,,,,,
+4/17/2020,Austria,Total,-65,-16,-10,-58,-52,20,,,,,,,,,
+4/17/2020,Austria,Burgenland,-57,-17,35,-33,-49,19,,,,,,,,,
+4/17/2020,Austria,Carinthia,-61,-19,-18,-47,-48,18,,,,,,,,,
+4/17/2020,Austria,Lower Austria,-58,-8,42,-62,-51,20,,,,,,,,,
+4/17/2020,Austria,Salzburg,-72,-27,-45,-66,-51,19,,,,,,,,,
+4/17/2020,Austria,Styria,-63,-19,-11,-56,-50,20,,,,,,,,,
+4/17/2020,Austria,Tyrol,-73,-30,-46,-63,-51,19,,,,,,,,,
+4/17/2020,Austria,Upper Austria,-60,-13,28,-55,-49,19,,,,,,,,,
+4/17/2020,Austria,Vienna,-69,-13,4,-60,-60,22,,,,,,,,,
+4/17/2020,Austria,Vorarlberg,-61,-17,-38,-64,-46,19,,,,,,,,,
+4/17/2020,Australia,Total,-37,-4,-33,-59,-39,20,,,,,,,,,
+4/17/2020,Australia,Australian Capital Territory,-37,12,15,-56,-46,24,,,,,,,,,
+4/17/2020,Australia,New South Wales,-40,-3,-27,-58,-41,20,,,,,,,,,
+4/17/2020,Australia,Northern Territory,-21,10,-12,-42,-15,13,,,,,,,,,
+4/17/2020,Australia,Queensland,-33,-6,-31,-59,-35,17,,,,,,,,,
+4/17/2020,Australia,South Australia,-33,0,-32,-51,-31,16,,,,,,,,,
+4/17/2020,Australia,Tasmania,-51,-24,-69,-65,-34,20,,,,,,,,,
+4/17/2020,Australia,Victoria,-41,-9,-47,-68,-43,23,,,,,,,,,
+4/17/2020,Australia,Western Australia,-33,-3,-28,-57,-33,18,,,,,,,,,
+4/17/2020,Aruba,Total,-66,-27,-44,-69,-61,32,,,,,,,,,
+4/17/2020,Bosnia and Herzegovina,Total,-65,-29,-3,-56,-54,19,,,,,,,,,
+4/17/2020,Barbados,Total,-70,-45,-63,-80,-71,35,,,,,,,,,
+4/17/2020,Bangladesh,Total,-75,-54,-36,-72,-38,20,,,,,,,,,
+4/17/2020,Belgium,Total,-75,-19,-14,-66,-63,30,,,,,,,,,
+4/17/2020,Belgium,Brussels,-82,-32,-17,-76,-73,34,,,,,,,,,
+4/17/2020,Belgium,Flanders,-73,-11,-9,-65,-61,29,,,,,,,,,
+4/17/2020,Belgium,Wallonia,-77,-28,-29,-65,-65,31,,,,,,,,,
+4/17/2020,Burkina Faso,Total,-27,-24,-17,-43,-16,19,,,,,,,,,
+4/17/2020,Bulgaria,Total,-58,-19,-35,-62,-73,26,,,,,,,,,
+4/17/2020,Bulgaria,Blagoevgrad Province,-63,-27,-31,-59,-69,23,,,,,,,,,
+4/17/2020,Bulgaria,Burgas,-51,-12,-19,-60,-66,21,,,,,,,,,
+4/17/2020,Bulgaria,Haskovo Province,-55,-18,-1,-67,-65,22,,,,,,,,,
+4/17/2020,Bulgaria,Pazardzhik,-59,-18,-16,-44,-70,24,,,,,,,,,
+4/17/2020,Bulgaria,Plovdiv Province,-61,-17,-44,-58,-74,28,,,,,,,,,
+4/17/2020,Bulgaria,Ruse,-54,-23,-13,-57,-71,25,,,,,,,,,
+4/17/2020,Bulgaria,Sofia City Province,-64,-21,-59,-68,-81,34,,,,,,,,,
+4/17/2020,Bulgaria,Stara Zagora,-57,-25,-32,7,-73,27,,,,,,,,,
+4/17/2020,Bulgaria,Varna,-56,-17,-36,-71,-71,25,,,,,,,,,
+4/17/2020,Bulgaria,Veliko Tarnovo Province,-60,-28,-29,-55,-69,23,,,,,,,,,
+4/17/2020,Bahrain,Total,-48,-22,-54,-47,-25,17,,,,,,,,,
+4/17/2020,Benin,Total,-18,-9,-8,-24,-14,11,,,,,,,,,
+4/17/2020,Bolivia,Total,-82,-67,-75,-81,-74,40,,,,,,,,,
+4/17/2020,Brazil,Total,-55,-11,-50,-51,-36,19,,,,,,,,,
+4/17/2020,Brazil,Federal District,-56,4,-67,-42,-43,23,,,,,,,,,
+4/17/2020,Brazil,State of Acre,-51,-11,-42,-68,-27,16,,,,,,,,,
+4/17/2020,Brazil,State of Alagoas,-60,-14,-54,-58,-33,16,,,,,,,,,
+4/17/2020,Brazil,State of Amapá,-54,-9,-35,-70,-41,18,,,,,,,,,
+4/17/2020,Brazil,State of Amazonas,-56,-16,-53,-43,-42,20,,,,,,,,,
+4/17/2020,Brazil,State of Bahia,-57,-20,-56,-59,-34,18,,,,,,,,,
+4/17/2020,Brazil,State of Ceará,-68,-19,-55,-62,-47,21,,,,,,,,,
+4/17/2020,Brazil,State of Espírito Santo,-53,-5,-55,-55,-30,18,,,,,,,,,
+4/17/2020,Brazil,State of Goiás,-51,-8,-36,-42,-31,19,,,,,,,,,
+4/17/2020,Brazil,State of Maranhão,-53,-19,-48,-63,-34,17,,,,,,,,,
+4/17/2020,Brazil,State of Mato Grosso,-39,-7,-34,-43,-19,14,,,,,,,,,
+4/17/2020,Brazil,State of Mato Grosso do Sul,-35,-5,-28,-39,-16,13,,,,,,,,,
+4/17/2020,Brazil,State of Minas Gerais,-51,-2,-32,-37,-29,17,,,,,,,,,
+4/17/2020,Brazil,State of Pará,-52,-16,-48,-57,-32,20,,,,,,,,,
+4/17/2020,Brazil,State of Paraíba,-66,-13,-57,-57,-37,17,,,,,,,,,
+4/17/2020,Brazil,State of Paraná,-48,-11,-44,-43,-26,17,,,,,,,,,
+4/17/2020,Brazil,State of Pernambuco,-62,-19,-56,-52,-42,19,,,,,,,,,
+4/17/2020,Brazil,State of Piauí,-69,-32,-44,-77,-48,23,,,,,,,,,
+4/17/2020,Brazil,State of Rio de Janeiro,-58,-14,-70,-55,-44,22,,,,,,,,,
+4/17/2020,Brazil,State of Rio Grande do Norte,-60,-16,-54,-51,-33,18,,,,,,,,,
+4/17/2020,Brazil,State of Rio Grande do Sul,-49,-13,-51,-49,-31,19,,,,,,,,,
+4/17/2020,Brazil,State of Rondônia,-39,-8,-28,-58,-16,14,,,,,,,,,
+4/17/2020,Brazil,State of Roraima,-48,-10,-41,-63,-24,15,,,,,,,,,
+4/17/2020,Brazil,State of Santa Catarina,-50,-22,-70,-66,-25,16,,,,,,,,,
+4/17/2020,Brazil,State of São Paulo,-59,-11,-46,-54,-40,21,,,,,,,,,
+4/17/2020,Brazil,State of Sergipe,-56,-22,-51,-69,-38,17,,,,,,,,,
+4/17/2020,Brazil,State of Tocantins,-42,-17,-34,-54,-20,14,,,,,,,,,
+4/17/2020,The Bahamas,Total,-53,-9,-38,-84,-59,30,,,,,,,,,
+4/17/2020,Botswana,Total,-65,-48,-30,-75,-63,41,,,,,,,,,
+4/17/2020,Belarus,Total,-21,5,-3,-26,-27,10,,,,,,,,,
+4/17/2020,Belize,Total,-69,-41,-53,-79,-68,30,,,,,,,,,
+4/17/2020,Canada,Total,-53,-22,-22,-67,-59,27,,,,,,,,,
+4/17/2020,Canada,Alberta,-45,-11,-28,-67,-52,24,,,,,,,,,
+4/17/2020,Canada,British Columbia,-45,-18,28,-59,-53,21,,,,,,,,,
+4/17/2020,Canada,Manitoba,-39,-10,-2,-58,-48,21,,,,,,,,,
+4/17/2020,Canada,New Brunswick,-43,-24,-24,-59,-55,24,,,,,,,,,
+4/17/2020,Canada,Newfoundland and Labrador,-43,-24,2,-61,-44,21,,,,,,,,,
+4/17/2020,Canada,Nova Scotia,-50,-27,-41,-68,-58,24,,,,,,,,,
+4/17/2020,Canada,Ontario,-56,-23,-33,-69,-62,28,,,,,,,,,
+4/17/2020,Canada,Quebec,-59,-28,-37,-72,-64,30,,,,,,,,,
+4/17/2020,Canada,Saskatchewan,-43,-12,4,-53,-48,20,,,,,,,,,
+4/17/2020,Côte d'Ivoire,Total,-33,-18,-24,-34,-24,18,,,,,,,,,
+4/17/2020,Chile,Total,-62,-36,-62,-60,-47,28,,,,,,,,,
+4/17/2020,Chile,Antofagasta,-50,-36,-61,-52,-34,23,,,,,,,,,
+4/17/2020,Chile,Araucania,-74,-51,-66,-72,-55,32,,,,,,,,,
+4/17/2020,Chile,Arica y Parinacota,-89,-74,-85,-84,-62,34,,,,,,,,,
+4/17/2020,Chile,Atacama,-48,-33,-51,-67,-28,24,,,,,,,,,
+4/17/2020,Chile,Aysén,-55,-27,-60,-72,-30,19,,,,,,,,,
+4/17/2020,Chile,Bio Bio,-58,-36,-58,-52,-42,26,,,,,,,,,
+4/17/2020,Chile,Coquimbo,-63,-43,-71,-61,-38,23,,,,,,,,,
+4/17/2020,Chile,Los Lagos,-66,-44,-67,-63,-42,28,,,,,,,,,
+4/17/2020,Chile,Los Ríos,-67,-42,-74,-66,-41,29,,,,,,,,,
+4/17/2020,Chile,Magallanes and Chilean Antarctica,-77,-56,-72,-82,-57,28,,,,,,,,,
+4/17/2020,Chile,Maule,-53,-33,-52,-51,-29,23,,,,,,,,,
+4/17/2020,Chile,O'Higgins,-50,-31,-51,-49,-29,22,,,,,,,,,
+4/17/2020,Chile,Santiago Metropolitan Region,-63,-30,-57,-61,-53,32,,,,,,,,,
+4/17/2020,Chile,Tarapacá,-62,-34,-66,-52,-38,26,,,,,,,,,
+4/17/2020,Chile,Valparaíso,-62,-42,-66,-57,-40,24,,,,,,,,,
+4/17/2020,Cameroon,Total,-25,-19,-18,-25,-17,12,,,,,,,,,
+4/17/2020,Colombia,Total,-76,-49,-67,-75,-66,35,,,,,,,,,
+4/17/2020,Colombia,Antioquia,-78,-50,-68,-78,-68,35,,,,,,,,,
+4/17/2020,Colombia,Atlantico,-77,-50,-71,-81,-67,31,,,,,,,,,
+4/17/2020,Colombia,Bogota,-77,-46,-66,-76,-73,43,,,,,,,,,
+4/17/2020,Colombia,Bolivar,-81,-61,-80,-87,-66,30,,,,,,,,,
+4/17/2020,Colombia,Boyaca,-74,-55,-68,-76,-58,31,,,,,,,,,
+4/17/2020,Colombia,Caldas,-79,-56,-68,-88,-63,32,,,,,,,,,
+4/17/2020,Colombia,Casanare,-73,-52,-58,-69,-53,32,,,,,,,,,
+4/17/2020,Colombia,Cauca,-74,-50,-64,-74,-57,28,,,,,,,,,
+4/17/2020,Colombia,Cesar,-77,-54,-63,-81,-55,28,,,,,,,,,
+4/17/2020,Colombia,Choco,-66,-44,-44,-67,-41,19,,,,,,,,,
+4/17/2020,Colombia,Cordoba,-73,-49,-54,-68,-57,25,,,,,,,,,
+4/17/2020,Colombia,Cundinamarca,-71,-48,-64,-71,-61,37,,,,,,,,,
+4/17/2020,Colombia,La Guajira,-68,-42,-61,-69,-44,24,,,,,,,,,
+4/17/2020,Colombia,Magdalena,-77,-56,-77,-84,-59,26,,,,,,,,,
+4/17/2020,Colombia,Meta,-76,-55,-62,-59,-58,33,,,,,,,,,
+4/17/2020,Colombia,Narino,-79,-59,-66,-68,-63,30,,,,,,,,,
+4/17/2020,Colombia,North Santander,-78,-48,-65,-81,-61,29,,,,,,,,,
+4/17/2020,Colombia,Quindio,-81,-54,-76,-89,-66,30,,,,,,,,,
+4/17/2020,Colombia,Risaralda,-78,-53,-74,-81,-68,33,,,,,,,,,
+4/17/2020,Colombia,Santander,-75,-49,-66,-76,-65,32,,,,,,,,,
+4/17/2020,Colombia,Sucre,-77,-49,-67,-89,-48,24,,,,,,,,,
+4/17/2020,Colombia,Tolima,-78,-57,-65,-85,-61,30,,,,,,,,,
+4/17/2020,Colombia,Valle del Cauca,-74,-48,-70,-71,-64,31,,,,,,,,,
+4/17/2020,Costa Rica,Total,-48,-26,-53,-53,-38,22,,,,,,,,,
+4/17/2020,Cape Verde,Total,-64,-47,-55,-87,-62,30,,,,,,,,,
+4/17/2020,Germany,Total,-55,-4,49,-49,-43,16,,,,,,,,,
+4/17/2020,Germany,Baden-Württemberg,-56,-5,40,-51,-45,18,,,,,,,,,
+4/17/2020,Germany,Bavaria,-66,-7,25,-56,-46,19,,,,,,,,,
+4/17/2020,Germany,Berlin,-64,0,13,-52,-51,18,,,,,,,,,
+4/17/2020,Germany,Brandenburg,-45,4,37,-39,-38,14,,,,,,,,,
+4/17/2020,Germany,Bremen,-59,-2,65,-52,-43,16,,,,,,,,,
+4/17/2020,Germany,Hamburg,-64,3,86,-54,-48,19,,,,,,,,,
+4/17/2020,Germany,Hesse,-54,-4,71,-60,-45,17,,,,,,,,,
+4/17/2020,Germany,Lower Saxony,-52,-7,53,-43,-41,16,,,,,,,,,
+4/17/2020,Germany,Mecklenburg-Vorpommern,-58,-6,30,-40,-33,12,,,,,,,,,
+4/17/2020,Germany,North Rhine-Westphalia,-51,-3,90,-50,-44,16,,,,,,,,,
+4/17/2020,Germany,Rhineland-Palatinate,-50,-5,55,-56,-43,17,,,,,,,,,
+4/17/2020,Germany,Saarland,-53,-13,48,-59,-46,17,,,,,,,,,
+4/17/2020,Germany,Saxony,-59,-4,59,-44,-37,14,,,,,,,,,
+4/17/2020,Germany,Saxony-Anhalt,-45,-3,48,-41,-30,11,,,,,,,,,
+4/17/2020,Germany,Schleswig-Holstein,-52,-5,66,-44,-43,16,,,,,,,,,
+4/17/2020,Germany,Thuringia,-46,-7,60,-36,-37,12,,,,,,,,,
+4/17/2020,Denmark,Total,-26,-6,127,-50,-45,15,,,,,,,,,
+4/17/2020,Denmark,Capital Region of Denmark,-37,-7,109,-57,-53,18,,,,,,,,,
+4/17/2020,Denmark,Central Denmark Region,-25,-9,168,-46,-43,14,,,,,,,,,
+4/17/2020,Denmark,North Denmark Region,-25,-2,103,-40,-41,13,,,,,,,,,
+4/17/2020,Denmark,Region of Southern Denmark,-20,-6,125,-46,-40,13,,,,,,,,,
+4/17/2020,Denmark,Region Zealand,-13,-6,180,-46,-43,13,,,,,,,,,
+4/17/2020,Dominican Republic,Total,-70,-47,-60,-80,-68,32,,,,,,,,,
+4/17/2020,Ecuador,Total,-77,-56,-72,-76,-78,41,,,,,,,,,
+4/17/2020,Estonia,Total,-46,-16,-2,-46,-48,20,,,,,,,,,
+4/17/2020,Estonia,Harju County,-48,-18,-5,-52,-52,22,,,,,,,,,
+4/17/2020,Estonia,Pärnu County,-47,-17,-21,-47,-46,18,,,,,,,,,
+4/17/2020,Estonia,Tartu County,-50,-19,-2,-48,-51,22,,,,,,,,,
+4/17/2020,Spain,Total,-89,-45,-77,-81,-67,33,,,,,,,,,
+4/17/2020,Spain,Andalusia,-88,-50,-76,-82,-66,31,,,,,,,,,
+4/17/2020,Spain,Aragon,-88,-43,-70,-79,-62,32,,,,,,,,,
+4/17/2020,Spain,Asturias,-89,-42,-75,-70,-64,31,,,,,,,,,
+4/17/2020,Spain,Balearic Islands,-87,-44,-76,-82,-63,30,,,,,,,,,
+4/17/2020,Spain,Basque Country,-89,-37,-78,-76,-65,34,,,,,,,,,
+4/17/2020,Spain,Canary Islands,-90,-49,-86,-80,-67,31,,,,,,,,,
+4/17/2020,Spain,Cantabria,-88,-46,-76,-78,-63,32,,,,,,,,,
+4/17/2020,Spain,Castile and León,-90,-50,-76,-81,-63,31,,,,,,,,,
+4/17/2020,Spain,Castile-La Mancha,-88,-48,-75,-81,-62,32,,,,,,,,,
+4/17/2020,Spain,Catalonia,-88,-43,-77,-80,-69,36,,,,,,,,,
+4/17/2020,Spain,Community of Madrid,-91,-44,-85,-84,-76,39,,,,,,,,,
+4/17/2020,Spain,Extremadura,-88,-51,-69,-78,-61,28,,,,,,,,,
+4/17/2020,Spain,Galicia,-87,-42,-71,-80,-62,34,,,,,,,,,
+4/17/2020,Spain,La Rioja,-87,-45,-77,-83,-60,30,,,,,,,,,
+4/17/2020,Spain,Navarre,-88,-39,-77,-82,-61,33,,,,,,,,,
+4/17/2020,Spain,Region of Murcia,-86,-42,-76,-73,-58,30,,,,,,,,,
+4/17/2020,Spain,Valencian Community,-89,-47,-79,-82,-65,32,,,,,,,,,
+4/17/2020,Finland,Total,-42,-12,32,-59,-48,17,,,,,,,,,
+4/17/2020,Finland,Central Finland,-39,-19,19,-69,-49,17,,,,,,,,,
+4/17/2020,Finland,Kainuu,-45,-23,9,-57,-42,16,,,,,,,,,
+4/17/2020,Finland,Kymenlaakso,-42,-10,53,-64,-40,13,,,,,,,,,
+4/17/2020,Finland,Lapland,-55,-24,-27,-69,-47,17,,,,,,,,,
+4/17/2020,Finland,North Karelia,-44,-15,-3,-54,-43,15,,,,,,,,,
+4/17/2020,Finland,Northern Ostrobothnia,-42,-16,4,-55,-50,18,,,,,,,,,
+4/17/2020,Finland,Northern Savonia,-47,-13,18,-52,-44,17,,,,,,,,,
+4/17/2020,Finland,Pirkanmaa,-41,-12,41,-55,-50,18,,,,,,,,,
+4/17/2020,Finland,Satakunta,-37,-9,58,-41,-38,14,,,,,,,,,
+4/17/2020,Finland,Southern Savonia,-44,-12,32,-62,-39,14,,,,,,,,,
+4/17/2020,Finland,Southwest Finland,-41,-11,54,-48,-45,16,,,,,,,,,
+4/17/2020,Finland,Uusimaa,-43,-8,36,-63,-55,20,,,,,,,,,
+4/17/2020,Fiji,Total,-30,-23,-21,-43,-26,21,,,,,,,,,
+4/17/2020,France,Total,-81,-33,-62,-79,-68,35,,,,,,,,,
+4/17/2020,France,Auvergne-Rhône-Alpes,-81,-34,-61,-81,-67,35,,,,,,,,,
+4/17/2020,France,Bourgogne-Franche-Comté,-79,-36,-47,-76,-62,31,,,,,,,,,
+4/17/2020,France,Brittany,-81,-34,-53,-79,-64,34,,,,,,,,,
+4/17/2020,France,Centre-Val de Loire,-79,-36,-58,-80,-66,33,,,,,,,,,
+4/17/2020,France,Corsica,-78,-34,-54,-72,-59,26,,,,,,,,,
+4/17/2020,France,Grand Est,-81,-36,-52,-79,-67,32,,,,,,,,,
+4/17/2020,France,Hauts-de-France,-80,-32,-59,-80,-67,32,,,,,,,,,
+4/17/2020,France,Île-de-France,-84,-27,-81,-80,-78,40,,,,,,,,,
+4/17/2020,France,Normandy,-81,-33,-59,-81,-65,33,,,,,,,,,
+4/17/2020,France,Nouvelle-Aquitaine,-80,-33,-53,-78,-63,33,,,,,,,,,
+4/17/2020,France,Occitanie,-79,-35,-57,-79,-68,33,,,,,,,,,
+4/17/2020,France,Pays de la Loire,-81,-34,-53,-82,-67,35,,,,,,,,,
+4/17/2020,France,Provence-Alpes-Côte d'Azur,-78,-33,-60,-76,-67,31,,,,,,,,,
+4/17/2020,Gabon,Total,-58,-48,-22,-67,-61,34,,,,,,,,,
+4/17/2020,United Kingdom,Total,-75,-30,-33,-71,-68,29,,,,,,,,,
+4/17/2020,United Kingdom,Aberdeen City,-80,-27,-6,-67,-71,30,,,,,,,,,
+4/17/2020,United Kingdom,Aberdeenshire,-65,-31,-20,-54,-68,27,,,,,,,,,
+4/17/2020,United Kingdom,Ards And North Down,-64,-20,-39,-62,-70,28,,,,,,,,,
+4/17/2020,United Kingdom,"Armagh City, Banbridge And Craigavon",-65,-21,-52,-61,-64,27,,,,,,,,,
+4/17/2020,United Kingdom,Bath and North East Somerset,-89,-45,-61,-79,-75,32,,,,,,,,,
+4/17/2020,United Kingdom,Bedford,-77,-28,-2,-66,-65,29,,,,,,,,,
+4/17/2020,United Kingdom,Belfast,-74,-28,-25,-77,-73,29,,,,,,,,,
+4/17/2020,United Kingdom,Blackpool,-76,-23,-15,-54,-61,23,,,,,,,,,
+4/17/2020,United Kingdom,Bridgend County Borough,-78,-25,-55,-68,-66,27,,,,,,,,,
+4/17/2020,United Kingdom,Brighton and Hove,-84,-38,-44,-75,-75,31,,,,,,,,,
+4/17/2020,United Kingdom,Buckinghamshire,-73,-32,-27,-70,-71,32,,,,,,,,,
+4/17/2020,United Kingdom,Caerphilly County Borough,-70,-29,-50,-64,-64,27,,,,,,,,,
+4/17/2020,United Kingdom,Cambridgeshire,-77,-29,-17,-74,-70,30,,,,,,,,,
+4/17/2020,United Kingdom,Cardiff,-83,-36,-66,-81,-73,31,,,,,,,,,
+4/17/2020,United Kingdom,Carmarthenshire,-73,-20,-48,-59,-64,25,,,,,,,,,
+4/17/2020,United Kingdom,Causeway Coast and Glens,-72,-21,-38,-57,-65,27,,,,,,,,,
+4/17/2020,United Kingdom,Central Bedfordshire,-71,-27,-4,-65,-69,31,,,,,,,,,
+4/17/2020,United Kingdom,Cheshire East,-72,-30,-16,-68,-68,28,,,,,,,,,
+4/17/2020,United Kingdom,Cheshire West and Chester,-78,-32,-18,-67,-68,28,,,,,,,,,
+4/17/2020,United Kingdom,City of Bristol,-84,-37,-43,-83,-74,35,,,,,,,,,
+4/17/2020,United Kingdom,Cornwall,-78,-40,-55,-60,-65,25,,,,,,,,,
+4/17/2020,United Kingdom,County Durham,-68,-28,-13,-56,-65,26,,,,,,,,,
+4/17/2020,United Kingdom,Cumbria,-73,-31,-37,-63,-67,26,,,,,,,,,
+4/17/2020,United Kingdom,Derby,-73,-28,17,-77,-67,27,,,,,,,,,
+4/17/2020,United Kingdom,Derbyshire,-74,-26,-14,-55,-65,27,,,,,,,,,
+4/17/2020,United Kingdom,Derry And Strabane,-64,-19,-52,-50,-63,25,,,,,,,,,
+4/17/2020,United Kingdom,Devon,-80,-37,-50,-68,-65,27,,,,,,,,,
+4/17/2020,United Kingdom,Dorset,-79,-35,-47,-66,-68,28,,,,,,,,,
+4/17/2020,United Kingdom,Dumfries and Galloway,-70,-27,-42,-67,-60,22,,,,,,,,,
+4/17/2020,United Kingdom,Dundee City Council,-74,-32,-5,-67,-67,25,,,,,,,,,
+4/17/2020,United Kingdom,East Riding of Yorkshire,-71,-28,-32,-43,-64,26,,,,,,,,,
+4/17/2020,United Kingdom,East Sussex,-75,-29,-26,-61,-66,26,,,,,,,,,
+4/17/2020,United Kingdom,Edinburgh,-84,-35,-53,-85,-79,33,,,,,,,,,
+4/17/2020,United Kingdom,Essex,-71,-31,-15,-78,-68,29,,,,,,,,,
+4/17/2020,United Kingdom,Falkirk,-70,-27,-21,-62,-67,28,,,,,,,,,
+4/17/2020,United Kingdom,Fife,-71,-22,-25,-60,-67,26,,,,,,,,,
+4/17/2020,United Kingdom,Flintshire,-64,-26,-25,-46,-66,27,,,,,,,,,
+4/17/2020,United Kingdom,Glasgow City,-79,-32,-44,-83,-74,30,,,,,,,,,
+4/17/2020,United Kingdom,Gloucestershire,-80,-37,-43,-68,-67,29,,,,,,,,,
+4/17/2020,United Kingdom,Greater London,-81,-34,-43,-79,-75,36,,,,,,,,,
+4/17/2020,United Kingdom,Greater Manchester,-72,-29,-11,-75,-67,28,,,,,,,,,
+4/17/2020,United Kingdom,Hampshire,-78,-35,-47,-73,-70,30,,,,,,,,,
+4/17/2020,United Kingdom,Herefordshire,-74,-33,-22,-57,-58,25,,,,,,,,,
+4/17/2020,United Kingdom,Hertfordshire,-74,-32,-17,-76,-71,32,,,,,,,,,
+4/17/2020,United Kingdom,Highland Council,-74,-33,-28,-60,-66,23,,,,,,,,,
+4/17/2020,United Kingdom,Isle of Wight,-82,-36,-55,-72,-65,25,,,,,,,,,
+4/17/2020,United Kingdom,Kent,-74,-31,-22,-63,-66,28,,,,,,,,,
+4/17/2020,United Kingdom,Kingston upon Hull,-69,-27,-20,-62,-59,25,,,,,,,,,
+4/17/2020,United Kingdom,Lancashire,-71,-26,1,-63,-63,26,,,,,,,,,
+4/17/2020,United Kingdom,Leicester,-73,-29,-23,-74,-64,26,,,,,,,,,
+4/17/2020,United Kingdom,Leicestershire,-72,-28,-15,-63,-67,28,,,,,,,,,
+4/17/2020,United Kingdom,Lincolnshire,-70,-28,-29,-59,-60,24,,,,,,,,,
+4/17/2020,United Kingdom,Medway,-73,-23,-15,-66,-64,28,,,,,,,,,
+4/17/2020,United Kingdom,Merseyside,-71,-24,-10,-68,-66,26,,,,,,,,,
+4/17/2020,United Kingdom,Mid And East Antrim,-69,-20,-31,-67,-67,27,,,,,,,,,
+4/17/2020,United Kingdom,Middlesbrough,-71,-30,-35,-70,-61,24,,,,,,,,,
+4/17/2020,United Kingdom,Milton Keynes,-74,-32,-29,-75,-70,30,,,,,,,,,
+4/17/2020,United Kingdom,Neath Port Talbot Principle Area,-69,-25,-41,-62,-64,25,,,,,,,,,
+4/17/2020,United Kingdom,Newport,-76,-33,-53,-74,-65,27,,,,,,,,,
+4/17/2020,United Kingdom,"Newry, Mourne And Down",-71,-21,-40,-49,-67,30,,,,,,,,,
+4/17/2020,United Kingdom,Norfolk,-74,-32,-33,-62,-62,26,,,,,,,,,
+4/17/2020,United Kingdom,North Ayrshire Council,-69,-16,-19,-60,-65,25,,,,,,,,,
+4/17/2020,United Kingdom,North East Lincolnshire,-71,-27,-40,-54,-55,23,,,,,,,,,
+4/17/2020,United Kingdom,North Lincolnshire,-63,-25,-24,-44,-57,23,,,,,,,,,
+4/17/2020,United Kingdom,North Somerset,-78,-38,-53,-86,-68,29,,,,,,,,,
+4/17/2020,United Kingdom,North Yorkshire,-77,-32,-38,-63,-65,26,,,,,,,,,
+4/17/2020,United Kingdom,Northamptonshire,-72,-26,-31,-61,-63,28,,,,,,,,,
+4/17/2020,United Kingdom,Northumberland,-72,-21,-37,-50,-63,25,,,,,,,,,
+4/17/2020,United Kingdom,Nottingham,-83,-30,-5,-76,-68,27,,,,,,,,,
+4/17/2020,United Kingdom,Nottinghamshire,-72,-28,-14,-55,-65,27,,,,,,,,,
+4/17/2020,United Kingdom,Oxfordshire,-79,-34,-39,-75,-71,32,,,,,,,,,
+4/17/2020,United Kingdom,Perth and Kinross,-80,-32,-27,-64,-71,27,,,,,,,,,
+4/17/2020,United Kingdom,Plymouth,-80,-40,-49,-70,-67,27,,,,,,,,,
+4/17/2020,United Kingdom,Portsmouth,-84,-37,-46,-72,-67,29,,,,,,,,,
+4/17/2020,United Kingdom,Reading,-83,-35,-29,-84,-75,34,,,,,,,,,
+4/17/2020,United Kingdom,Redcar and Cleveland,-75,-27,-11,-38,-61,24,,,,,,,,,
+4/17/2020,United Kingdom,Renfrewshire,-75,-23,-10,-82,-72,29,,,,,,,,,
+4/17/2020,United Kingdom,Rhondda Cynon Taff,-72,-31,-56,-64,-67,27,,,,,,,,,
+4/17/2020,United Kingdom,Shropshire,-74,-33,-33,-60,-64,26,,,,,,,,,
+4/17/2020,United Kingdom,Slough,-67,-32,-36,-76,-66,30,,,,,,,,,
+4/17/2020,United Kingdom,Somerset,-78,-35,-50,-67,-62,26,,,,,,,,,
+4/17/2020,United Kingdom,South Gloucestershire,-74,-29,-33,-68,-69,31,,,,,,,,,
+4/17/2020,United Kingdom,South Lanarkshire,-67,-24,-7,-63,-70,28,,,,,,,,,
+4/17/2020,United Kingdom,South Yorkshire,-74,-26,-12,-65,-64,27,,,,,,,,,
+4/17/2020,United Kingdom,Southampton,-81,-32,-53,-72,-66,29,,,,,,,,,
+4/17/2020,United Kingdom,Southend-on-Sea,-78,-22,-12,-75,-68,29,,,,,,,,,
+4/17/2020,United Kingdom,Staffordshire,-73,-26,-18,-61,-66,28,,,,,,,,,
+4/17/2020,United Kingdom,Stockton-on-Tees,-70,-27,-16,-63,-63,26,,,,,,,,,
+4/17/2020,United Kingdom,Stoke-on-Trent,-72,-25,-7,-70,-62,25,,,,,,,,,
+4/17/2020,United Kingdom,Suffolk,-75,-32,-25,-57,-63,26,,,,,,,,,
+4/17/2020,United Kingdom,Surrey,-77,-34,-39,-74,-74,32,,,,,,,,,
+4/17/2020,United Kingdom,Swansea,-76,-41,-41,-71,-66,27,,,,,,,,,
+4/17/2020,United Kingdom,Swindon,-76,-33,-38,-71,-69,30,,,,,,,,,
+4/17/2020,United Kingdom,Thurrock,-74,-33,-42,-65,-64,29,,,,,,,,,
+4/17/2020,United Kingdom,Torbay,-83,-33,-58,-69,-64,25,,,,,,,,,
+4/17/2020,United Kingdom,Tyne and Wear,-74,-26,-21,-67,-67,28,,,,,,,,,
+4/17/2020,United Kingdom,Warrington,-73,-22,29,-67,-66,27,,,,,,,,,
+4/17/2020,United Kingdom,Warwickshire,-76,-27,-23,-65,-69,29,,,,,,,,,
+4/17/2020,United Kingdom,West Berkshire,-81,-36,-38,-76,-73,31,,,,,,,,,
+4/17/2020,United Kingdom,West Lothian,-65,-16,-24,-61,-67,27,,,,,,,,,
+4/17/2020,United Kingdom,West Midlands,-73,-28,-24,-73,-68,28,,,,,,,,,
+4/17/2020,United Kingdom,West Sussex,-76,-32,-45,-85,-68,29,,,,,,,,,
+4/17/2020,United Kingdom,West Yorkshire,-72,-28,-15,-70,-67,28,,,,,,,,,
+4/17/2020,United Kingdom,Wiltshire,-76,-36,-57,-66,-68,29,,,,,,,,,
+4/17/2020,United Kingdom,Wokingham,-75,-40,-24,-73,-77,33,,,,,,,,,
+4/17/2020,United Kingdom,Worcestershire,-75,-32,-23,-66,-67,28,,,,,,,,,
+4/17/2020,United Kingdom,Wrexham Principal Area,-69,-24,-27,-53,-59,25,,,,,,,,,
+4/17/2020,United Kingdom,York,-81,-35,-39,-80,-73,30,,,,,,,,,
+4/17/2020,Georgia,Total,-74,-40,-28,-64,-73,28,,,,,,,,,
+4/17/2020,Ghana,Total,-50,-40,-33,-56,-43,29,,,,,,,,,
+4/17/2020,Greece,Total,-75,-2,-23,-69,-73,30,,,,,,,,,
+4/17/2020,Greece,Crete Region,-72,-3,-26,-73,-66,26,,,,,,,,,
+4/17/2020,Greece,Decentralized Administration of Attica,-75,-3,-24,-70,-79,34,,,,,,,,,
+4/17/2020,Greece,Decentralized Administration of Epirus and Western Macedonia,-77,-3,-33,-63,-67,26,,,,,,,,,
+4/17/2020,Greece,Decentralized Administration of Macedonia and Thrace,-76,1,-34,-79,-71,29,,,,,,,,,
+4/17/2020,Greece,"Decentralized Administration of Peloponnese, Western Greece and the Ionian",-71,0,-23,-67,-65,26,,,,,,,,,
+4/17/2020,Greece,Decentralized Administration of the Aegean,-68,-7,3,-55,-62,21,,,,,,,,,
+4/17/2020,Greece,Decentralized Administration of Thessaly and Central Greece,-74,2,-11,-67,-67,27,,,,,,,,,
+4/17/2020,Guatemala,Total,-59,-35,-48,-70,-48,31,,,,,,,,,
+4/17/2020,Hong Kong,Total,-23,-1,-10,-37,-21,18,,,,,,,,,
+4/17/2020,Honduras,Total,-71,-43,-50,-65,-59,27,,,,,,,,,
+4/17/2020,Croatia,Total,-63,-27,0,-67,-54,21,,,,,,,,,
+4/17/2020,Croatia,Bjelovar-Bilogora County,-61,-29,36,-73,-46,17,,,,,,,,,
+4/17/2020,Croatia,City of Zagreb,-66,-34,3,-70,-62,26,,,,,,,,,
+4/17/2020,Croatia,Dubrovnik-Neretva County,-62,-29,-15,-58,-55,20,,,,,,,,,
+4/17/2020,Croatia,Istria County,-53,-25,8,-59,-48,19,,,,,,,,,
+4/17/2020,Croatia,Karlovac County,-64,-30,65,-57,-48,20,,,,,,,,,
+4/17/2020,Croatia,Osijek-Baranja County,-62,-25,35,-67,-50,18,,,,,,,,,
+4/17/2020,Croatia,Primorje-Gorski Kotar County,-66,-29,-12,-68,-53,22,,,,,,,,,
+4/17/2020,Croatia,Split-Dalmatia County,-67,-27,-14,-70,-57,21,,,,,,,,,
+4/17/2020,Croatia,Zadar County,-63,-23,9,-65,-50,18,,,,,,,,,
+4/17/2020,Croatia,Zagreb County,-60,-26,0,-63,-54,23,,,,,,,,,
+4/17/2020,Haiti,Total,-32,-28,-22,-47,-33,12,,,,,,,,,
+4/17/2020,Hungary,Total,-44,-14,1,-48,-45,19,,,,,,,,,
+4/17/2020,Hungary,Bács-Kiskun,-35,-8,32,-38,-36,15,,,,,,,,,
+4/17/2020,Hungary,Baranya,-46,-13,29,-38,-43,17,,,,,,,,,
+4/17/2020,Hungary,Békés County,-34,-9,24,-34,-37,14,,,,,,,,,
+4/17/2020,Hungary,Borsod-Abaúj-Zemplén,-35,-14,45,-31,-39,15,,,,,,,,,
+4/17/2020,Hungary,Budapest,-60,-21,-29,-64,-57,24,,,,,,,,,
+4/17/2020,Hungary,Csongrád,-44,-16,-10,-40,-44,18,,,,,,,,,
+4/17/2020,Hungary,Fejér,-37,-11,20,-44,-44,18,,,,,,,,,
+4/17/2020,Hungary,Gyor-Moson-Sopron,-43,-14,-11,-47,-46,19,,,,,,,,,
+4/17/2020,Hungary,Hajdú-Bihar,-41,-12,12,-46,-40,16,,,,,,,,,
+4/17/2020,Hungary,Heves County,-38,-14,-8,-40,-39,15,,,,,,,,,
+4/17/2020,Hungary,Jász-Nagykun-Szolnok,-29,-7,52,-34,-36,14,,,,,,,,,
+4/17/2020,Hungary,Komárom-Esztergom,-33,-9,58,-35,-40,17,,,,,,,,,
+4/17/2020,Hungary,Pest County,-29,-10,57,-37,-47,21,,,,,,,,,
+4/17/2020,Hungary,Somogy County,-27,-7,25,-28,-38,15,,,,,,,,,
+4/17/2020,Hungary,Szabolcs-Szatmár-Bereg,-30,-17,11,-29,-36,14,,,,,,,,,
+4/17/2020,Hungary,Vas County,-40,-13,32,-42,-40,17,,,,,,,,,
+4/17/2020,Hungary,Veszprém,-31,-9,34,-32,-41,17,,,,,,,,,
+4/17/2020,Hungary,Zala County,-40,-14,-3,-34,-38,15,,,,,,,,,
+4/17/2020,Indonesia,Total,-38,-23,-35,-58,-35,18,,,,,,,,,
+4/17/2020,Indonesia,Aceh,-22,-13,-22,-48,-22,10,,,,,,,,,
+4/17/2020,Indonesia,Bali,-46,-36,-61,-74,-41,20,,,,,,,,,
+4/17/2020,Indonesia,Bangka Belitung Islands,-38,-15,-30,-66,-24,14,,,,,,,,,
+4/17/2020,Indonesia,Banten,-35,-16,-24,-65,-36,21,,,,,,,,,
+4/17/2020,Indonesia,Bengkulu,-24,-14,-25,-50,-28,12,,,,,,,,,
+4/17/2020,Indonesia,Central Java,-32,-20,-37,-53,-31,16,,,,,,,,,
+4/17/2020,Indonesia,Central Kalimantan,-32,-20,-31,-43,-25,10,,,,,,,,,
+4/17/2020,Indonesia,Central Sulawesi,-33,-18,-3,-53,-24,12,,,,,,,,,
+4/17/2020,Indonesia,East Java,-30,-17,-37,-51,-30,15,,,,,,,,,
+4/17/2020,Indonesia,East Kalimantan,-37,-19,-31,-51,-28,14,,,,,,,,,
+4/17/2020,Indonesia,East Nusa Tenggara,-37,-19,-24,-39,-25,13,,,,,,,,,
+4/17/2020,Indonesia,Gorontalo,-30,-14,-15,-58,-31,16,,,,,,,,,
+4/17/2020,Indonesia,Jakarta,-55,-28,-47,-70,-50,26,,,,,,,,,
+4/17/2020,Indonesia,Jambi,-31,-16,-25,-45,-25,12,,,,,,,,,
+4/17/2020,Indonesia,Lampung,-24,-10,-21,-45,-31,12,,,,,,,,,
+4/17/2020,Indonesia,Maluku,-39,-24,-17,-40,-31,13,,,,,,,,,
+4/17/2020,Indonesia,North Kalimantan,-36,-18,-29,-42,-24,12,,,,,,,,,
+4/17/2020,Indonesia,North Maluku,-31,-9,-19,-43,-23,12,,,,,,,,,
+4/17/2020,Indonesia,North Sulawesi,-44,-24,-30,-54,-32,17,,,,,,,,,
+4/17/2020,Indonesia,North Sumatra,-42,-27,-43,-53,-31,16,,,,,,,,,
+4/17/2020,Indonesia,Papua,-41,-33,-31,-50,-28,15,,,,,,,,,
+4/17/2020,Indonesia,Riau,-37,-27,-12,-51,-26,14,,,,,,,,,
+4/17/2020,Indonesia,Riau Islands,-41,-21,-32,-64,-23,16,,,,,,,,,
+4/17/2020,Indonesia,South East Sulawesi,-36,-22,-20,-45,-24,13,,,,,,,,,
+4/17/2020,Indonesia,South Kalimantan,-35,-23,-35,-52,-28,13,,,,,,,,,
+4/17/2020,Indonesia,South Sulawesi,-43,-22,-26,-55,-35,16,,,,,,,,,
+4/17/2020,Indonesia,South Sumatra,-31,-16,-16,-47,-29,13,,,,,,,,,
+4/17/2020,Indonesia,Special Region of Yogyakarta,-52,-41,-61,-71,-41,20,,,,,,,,,
+4/17/2020,Indonesia,West Java,-38,-25,-31,-60,-39,21,,,,,,,,,
+4/17/2020,Indonesia,West Kalimantan,-46,-26,-33,-49,-27,14,,,,,,,,,
+4/17/2020,Indonesia,West Nusa Tenggara,-36,-21,-37,-58,-27,14,,,,,,,,,
+4/17/2020,Indonesia,West Papua,-35,-20,-43,-68,-28,14,,,,,,,,,
+4/17/2020,Indonesia,West Sulawesi,-29,-19,-41,-53,-28,14,,,,,,,,,
+4/17/2020,Indonesia,West Sumatra,-37,-20,-43,-52,-33,15,,,,,,,,,
+4/17/2020,India,Total,-85,-43,-60,-65,-65,31,,,,,,,,,
+4/17/2020,Iraq,Total,-58,-32,-41,-54,-19,14,,,,,,,,,
+4/17/2020,Italy,Total,-79,-34,-75,-76,-63,32,,,,,,,,,
+4/17/2020,Italy,Abruzzo,-78,-33,-76,-79,-63,31,,,,,,,,,
+4/17/2020,Italy,Aosta,-86,-40,-74,-73,-61,32,,,,,,,,,
+4/17/2020,Italy,Apulia,-76,-35,-72,-80,-60,27,,,,,,,,,
+4/17/2020,Italy,Basilicata,-76,-34,-61,-69,-60,26,,,,,,,,,
+4/17/2020,Italy,Calabria,-80,-41,-70,-80,-62,27,,,,,,,,,
+4/17/2020,Italy,Campania,-81,-36,-77,-78,-65,30,,,,,,,,,
+4/17/2020,Italy,Emilia-Romagna,-78,-29,-75,-75,-59,33,,,,,,,,,
+4/17/2020,Italy,Friuli-Venezia Giulia,-79,-25,-72,-69,-57,32,,,,,,,,,
+4/17/2020,Italy,Lazio,-80,-37,-79,-80,-67,34,,,,,,,,,
+4/17/2020,Italy,Liguria,-76,-36,-71,-73,-61,30,,,,,,,,,
+4/17/2020,Italy,Lombardy,-83,-36,-75,-82,-67,36,,,,,,,,,
+4/17/2020,Italy,Marche,-78,-33,-76,-71,-63,34,,,,,,,,,
+4/17/2020,Italy,Molise,-75,-37,-71,-67,-60,27,,,,,,,,,
+4/17/2020,Italy,Piedmont,-79,-33,-71,-75,-64,34,,,,,,,,,
+4/17/2020,Italy,Sardinia,-78,-35,-71,-70,-57,26,,,,,,,,,
+4/17/2020,Italy,Sicily,-79,-38,-74,-79,-62,27,,,,,,,,,
+4/17/2020,Italy,Trentino-South Tyrol,-81,-44,-79,-74,-60,31,,,,,,,,,
+4/17/2020,Italy,Tuscany,-78,-37,-75,-72,-62,33,,,,,,,,,
+4/17/2020,Italy,Umbria,-78,-35,-67,-67,-57,30,,,,,,,,,
+4/17/2020,Italy,Veneto,-78,-25,-72,-76,-58,32,,,,,,,,,
+4/17/2020,Jamaica,Total,-53,-32,-52,-57,-50,29,,,,,,,,,
+4/17/2020,Jordan,Total,-92,-85,-76,-95,-63,22,,,,,,,,,
+4/17/2020,Japan,Total,-31,4,-1,-46,-23,14,,,,,,,,,
+4/17/2020,Japan,Aichi,-29,0,-5,-46,-20,14,,,,,,,,,
+4/17/2020,Japan,Akita,-13,1,59,-28,-8,6,,,,,,,,,
+4/17/2020,Japan,Aomori,-16,1,16,-30,-8,6,,,,,,,,,
+4/17/2020,Japan,Chiba,-30,10,22,-51,-32,19,,,,,,,,,
+4/17/2020,Japan,Ehime,-22,0,-10,-36,-9,8,,,,,,,,,
+4/17/2020,Japan,Fukui,-29,3,11,-39,-15,12,,,,,,,,,
+4/17/2020,Japan,Fukuoka,-34,-4,-16,-54,-25,16,,,,,,,,,
+4/17/2020,Japan,Fukushima,-17,6,19,-35,-8,7,,,,,,,,,
+4/17/2020,Japan,Gifu,-28,2,-15,-45,-17,12,,,,,,,,,
+4/17/2020,Japan,Gunma,-21,2,6,-44,-15,11,,,,,,,,,
+4/17/2020,Japan,Hiroshima,-26,3,-12,-42,-13,11,,,,,,,,,
+4/17/2020,Japan,Hokkaido,-20,6,12,-34,-10,6,,,,,,,,,
+4/17/2020,Japan,Hyogo,-31,6,9,-45,-25,15,,,,,,,,,
+4/17/2020,Japan,Ibaraki,-19,7,4,-47,-16,12,,,,,,,,,
+4/17/2020,Japan,Ishikawa,-29,3,4,-52,-18,12,,,,,,,,,
+4/17/2020,Japan,Iwate,-12,4,25,-28,-5,5,,,,,,,,,
+4/17/2020,Japan,Kagawa,-24,0,-18,-42,-11,9,,,,,,,,,
+4/17/2020,Japan,Kagoshima,-16,1,-11,-32,-6,6,,,,,,,,,
+4/17/2020,Japan,Kanagawa,-35,10,13,-49,-38,22,,,,,,,,,
+4/17/2020,Japan,Kochi,-28,-4,-13,-35,-12,10,,,,,,,,,
+4/17/2020,Japan,Kumamoto,-22,-1,-17,-37,-12,10,,,,,,,,,
+4/17/2020,Japan,Kyoto,-30,3,-8,-48,-21,13,,,,,,,,,
+4/17/2020,Japan,Mie,-24,0,-31,-46,-12,10,,,,,,,,,
+4/17/2020,Japan,Miyagi,-24,6,11,-43,-14,11,,,,,,,,,
+4/17/2020,Japan,Miyazaki,-19,2,-15,-34,-7,7,,,,,,,,,
+4/17/2020,Japan,Nagano,-24,2,3,-44,-12,10,,,,,,,,,
+4/17/2020,Japan,Nagasaki,-21,0,-27,-33,-8,8,,,,,,,,,
+4/17/2020,Japan,Nara,-18,9,-8,-38,-19,11,,,,,,,,,
+4/17/2020,Japan,Niigata,-14,5,31,-39,-9,7,,,,,,,,,
+4/17/2020,Japan,Oita,-21,0,-22,-39,-11,9,,,,,,,,,
+4/17/2020,Japan,Okayama,-16,4,-1,-37,-9,8,,,,,,,,,
+4/17/2020,Japan,Okinawa,-34,-7,-24,-56,-18,12,,,,,,,,,
+4/17/2020,Japan,Osaka,-41,2,6,-48,-28,16,,,,,,,,,
+4/17/2020,Japan,Saga,-19,0,-21,-40,-10,9,,,,,,,,,
+4/17/2020,Japan,Saitama,-26,12,16,-49,-30,18,,,,,,,,,
+4/17/2020,Japan,Shiga,-22,2,6,-44,-16,11,,,,,,,,,
+4/17/2020,Japan,Shimane,-20,6,-11,-32,-8,8,,,,,,,,,
+4/17/2020,Japan,Shizuoka,-21,3,-6,-44,-13,10,,,,,,,,,
+4/17/2020,Japan,Tochigi,-22,4,4,-46,-14,11,,,,,,,,,
+4/17/2020,Japan,Tokushima,-19,2,-8,-34,-9,7,,,,,,,,,
+4/17/2020,Japan,Tokyo,-53,7,-8,-57,-46,26,,,,,,,,,
+4/17/2020,Japan,Tottori,-16,8,-5,-32,-8,6,,,,,,,,,
+4/17/2020,Japan,Toyama,-23,6,11,-40,-12,10,,,,,,,,,
+4/17/2020,Japan,Wakayama,-22,2,-1,-38,-12,8,,,,,,,,,
+4/17/2020,Japan,Yamagata,-20,0,46,-42,-13,9,,,,,,,,,
+4/17/2020,Japan,Yamaguchi,-23,1,-16,-39,-12,10,,,,,,,,,
+4/17/2020,Japan,Yamanashi,-25,-2,-19,-47,-14,11,,,,,,,,,
+4/17/2020,Kenya,Total,-45,-32,-30,-41,-35,25,,,,,,,,,
+4/17/2020,Kenya,Kajiado County,-33,-17,-29,-26,-34,30,,,,,,,,,
+4/17/2020,Kenya,Kiambu County,-34,-30,-16,-34,-39,29,,,,,,,,,
+4/17/2020,Kenya,Kilifi County,-43,-43,-47,-35,-36,21,,,,,,,,,
+4/17/2020,Kenya,Kisumu County,-47,-16,-44,-54,-27,20,,,,,,,,,
+4/17/2020,Kenya,Machakos County,-52,29,-39,-33,-35,28,,,,,,,,,
+4/17/2020,Kenya,Mombasa County,-48,-39,-37,-50,-30,22,,,,,,,,,
+4/17/2020,Kenya,Nairobi County,-52,-40,-57,-47,-40,30,,,,,,,,,
+4/17/2020,Kenya,Nakuru County,-37,-29,-41,-47,-27,19,,,,,,,,,
+4/17/2020,Kenya,Uasin Gishu County,-31,-45,-33,-50,-30,17,,,,,,,,,
+4/17/2020,Kyrgyzstan,Total,-72,-57,-31,-68,-63,23,,,,,,,,,
+4/17/2020,Cambodia,Total,-42,-28,-26,-60,-34,13,,,,,,,,,
+4/17/2020,South Korea,Total,-23,-7,-19,-20,-6,9,,,,,,,,,
+4/17/2020,Kuwait,Total,-70,-47,-65,-66,-43,24,,,,,,,,,
+4/17/2020,Kuwait,Al Ahmadi Governorate,-70,-47,-58,-53,-43,23,,,,,,,,,
+4/17/2020,Kuwait,Al Asimah Governate,-80,-53,-77,-73,-45,24,,,,,,,,,
+4/17/2020,Kuwait,Al Farwaniyah Governorate,-66,-55,-63,-74,-44,24,,,,,,,,,
+4/17/2020,Kuwait,Al Jahra Governorate,-58,-37,-47,-16,-26,23,,,,,,,,,
+4/17/2020,Kuwait,Hawalli Governorate,-70,-41,-68,-45,-48,23,,,,,,,,,
+4/17/2020,Kazakhstan,Total,-59,-37,-27,-50,-55,22,,,,,,,,,
+4/17/2020,Laos,Total,-62,-42,-18,-72,-54,22,,,,,,,,,
+4/17/2020,Lebanon,Total,-60,-25,-33,-76,-59,19,,,,,,,,,
+4/17/2020,Sri Lanka,Total,-82,-79,-47,-77,-70,43,,,,,,,,,
+4/17/2020,Lithuania,Total,-54,-10,21,-53,-50,21,,,,,,,,,
+4/17/2020,Lithuania,Alytus County,-51,-14,38,-42,-45,17,,,,,,,,,
+4/17/2020,Lithuania,Kaunas County,-53,-10,11,-56,-49,21,,,,,,,,,
+4/17/2020,Lithuania,Klaipėda County,-53,3,15,-22,-48,19,,,,,,,,,
+4/17/2020,Lithuania,Marijampolė County,-48,-22,8,-37,-44,17,,,,,,,,,
+4/17/2020,Lithuania,Panevėžys County,-50,-7,-9,-54,-44,18,,,,,,,,,
+4/17/2020,Lithuania,Šiauliai County,-52,-13,15,-17,-45,17,,,,,,,,,
+4/17/2020,Lithuania,Utena County,-43,-3,40,-19,-44,17,,,,,,,,,
+4/17/2020,Lithuania,Vilnius County,-59,-17,19,-61,-57,26,,,,,,,,,
+4/17/2020,Luxembourg,Total,-81,-20,-21,-68,-71,37,,,,,,,,,
+4/17/2020,Latvia,Total,-29,-9,-8,-45,-41,16,,,,,,,,,
+4/17/2020,Latvia,Riga,-37,-14,-44,-52,-44,18,,,,,,,,,
+4/17/2020,Libya,Total,-47,-23,-34,-49,-13,12,,,,,,,,,
+4/17/2020,Moldova,Total,-51,-23,-25,-55,-56,20,,,,,,,,,
+4/17/2020,North Macedonia,Total,-58,-2,-5,-58,-70,23,,,,,,,,,
+4/17/2020,Mali,Total,-20,-17,-10,-36,-12,11,,,,,,,,,
+4/17/2020,Myanmar (Burma),Total,-74,-64,-26,-72,-67,31,,,,,,,,,
+4/17/2020,Mongolia,Total,-10,14,-2,-6,-3,4,,,,,,,,,
+4/17/2020,Malta,Total,-64,-21,-22,-49,-56,28,,,,,,,,,
+4/17/2020,Mauritius,Total,-83,-63,-77,-86,-79,37,,,,,,,,,
+4/17/2020,Mexico,Total,-55,-18,-47,-58,-47,24,,,,,,,,,
+4/17/2020,Mexico,Aguascalientes,-54,-7,-32,-66,-47,24,,,,,,,,,
+4/17/2020,Mexico,Baja California,-58,-12,-42,-63,-52,26,,,,,,,,,
+4/17/2020,Mexico,Baja California Sur,-68,-27,-63,-72,-57,28,,,,,,,,,
+4/17/2020,Mexico,Campeche,-57,-26,-55,-58,-49,25,,,,,,,,,
+4/17/2020,Mexico,Chiapas,-55,-20,-45,-59,-42,19,,,,,,,,,
+4/17/2020,Mexico,Chihuahua,-54,-12,-38,-61,-49,24,,,,,,,,,
+4/17/2020,Mexico,Coahuila,-54,-15,-50,-50,-49,25,,,,,,,,,
+4/17/2020,Mexico,Colima,-51,-13,-38,-58,-35,19,,,,,,,,,
+4/17/2020,Mexico,Durango,-47,-16,-39,-54,-42,19,,,,,,,,,
+4/17/2020,Mexico,Guanajuato,-50,-11,-45,-47,-44,22,,,,,,,,,
+4/17/2020,Mexico,Guerrero,-59,-27,-52,-63,-45,20,,,,,,,,,
+4/17/2020,Mexico,Hidalgo,-43,-17,-35,-57,-42,21,,,,,,,,,
+4/17/2020,Mexico,Jalisco,-50,-13,-40,-58,-43,21,,,,,,,,,
+4/17/2020,Mexico,Mexico City,-65,-26,-57,-62,-57,29,,,,,,,,,
+4/17/2020,Mexico,Michoacán,-47,-16,-32,-48,-35,16,,,,,,,,,
+4/17/2020,Mexico,Morelos,-51,-20,-45,-52,-42,21,,,,,,,,,
+4/17/2020,Mexico,Nayarit,-60,-25,-57,-56,-45,22,,,,,,,,,
+4/17/2020,Mexico,Nuevo Leon,-53,-14,-49,-58,-48,25,,,,,,,,,
+4/17/2020,Mexico,Oaxaca,-54,-27,-52,-54,-42,20,,,,,,,,,
+4/17/2020,Mexico,Puebla,-53,-16,-41,-44,-48,22,,,,,,,,,
+4/17/2020,Mexico,Querétaro,-55,-12,-46,-37,-49,26,,,,,,,,,
+4/17/2020,Mexico,Quintana Roo,-73,-37,-71,-85,-62,34,,,,,,,,,
+4/17/2020,Mexico,San Luis Potosi,-51,-14,-50,-57,-46,23,,,,,,,,,
+4/17/2020,Mexico,Sinaloa,-61,-25,-50,-64,-50,26,,,,,,,,,
+4/17/2020,Mexico,Sonora,-62,-26,-49,-62,-53,27,,,,,,,,,
+4/17/2020,Mexico,State of Mexico,-46,-9,-31,-53,-46,22,,,,,,,,,
+4/17/2020,Mexico,Tabasco,-57,-28,-45,-53,-48,22,,,,,,,,,
+4/17/2020,Mexico,Tamaulipas,-50,-13,-48,-54,-44,22,,,,,,,,,
+4/17/2020,Mexico,Tlaxcala,-45,-14,-34,-43,-44,21,,,,,,,,,
+4/17/2020,Mexico,Veracruz,-48,-14,-42,-52,-39,18,,,,,,,,,
+4/17/2020,Mexico,Yucatan,-65,-31,-60,-73,-54,30,,,,,,,,,
+4/17/2020,Mexico,Zacatecas,-55,-25,-51,-56,-45,21,,,,,,,,,
+4/17/2020,Malaysia,Total,-81,-44,-59,-80,-61,40,,,,,,,,,
+4/17/2020,Mozambique,Total,-30,-21,-32,-29,-14,13,,,,,,,,,
+4/17/2020,Namibia,Total,-49,-25,-42,-70,-49,26,,,,,,,,,
+4/17/2020,Niger,Total,-23,-14,-24,-34,-18,13,,,,,,,,,
+4/17/2020,Nigeria,Total,-55,-42,-46,-54,-49,31,,,,,,,,,
+4/17/2020,Nigeria,Abia,-49,-47,0,-53,-42,19,,,,,,,,,
+4/17/2020,Nigeria,Akwa Ibom,-57,-31,-50,-74,-43,23,,,,,,,,,
+4/17/2020,Nigeria,Anambra,-49,-54,-44,-59,-47,22,,,,,,,,,
+4/17/2020,Nigeria,Delta,-61,-54,-29,-60,-42,29,,,,,,,,,
+4/17/2020,Nigeria,Edo,-49,-27,-28,-36,-28,17,,,,,,,,,
+4/17/2020,Nigeria,Enugu,-50,-38,-41,-42,-37,19,,,,,,,,,
+4/17/2020,Nigeria,Federal Capital Territory,-71,-60,-68,-85,-62,43,,,,,,,,,
+4/17/2020,Nigeria,Imo,-50,-35,-36,-57,-28,16,,,,,,,,,
+4/17/2020,Nigeria,Kaduna,-62,-47,-35,-46,-43,27,,,,,,,,,
+4/17/2020,Nigeria,Kano,-60,-62,-45,-53,-62,32,,,,,,,,,
+4/17/2020,Nigeria,Lagos,-71,-56,-70,-59,-66,44,,,,,,,,,
+4/17/2020,Nigeria,Ogun State,-28,7,-10,-30,-49,25,,,,,,,,,
+4/17/2020,Nigeria,Ondo,-40,-41,-36,-35,-28,17,,,,,,,,,
+4/17/2020,Nigeria,Osun,-58,-45,-19,-63,-49,22,,,,,,,,,
+4/17/2020,Nigeria,Oyo,-42,-34,-33,-33,-35,19,,,,,,,,,
+4/17/2020,Nigeria,Rivers,-26,-16,-11,-38,-26,20,,,,,,,,,
+4/17/2020,Nicaragua,Total,-26,-12,-16,-27,-16,10,,,,,,,,,
+4/17/2020,Netherlands,Total,-41,-10,38,-59,-45,17,,,,,,,,,
+4/17/2020,Netherlands,Drenthe,-33,-9,15,-53,-39,14,,,,,,,,,
+4/17/2020,Netherlands,Flevoland,-34,-9,76,-58,-45,17,,,,,,,,,
+4/17/2020,Netherlands,Friesland,-41,-13,75,-48,-39,13,,,,,,,,,
+4/17/2020,Netherlands,Gelderland,-38,-8,54,-54,-42,16,,,,,,,,,
+4/17/2020,Netherlands,Groningen,-45,-14,63,-59,-46,16,,,,,,,,,
+4/17/2020,Netherlands,Limburg,-46,-5,20,-50,-42,16,,,,,,,,,
+4/17/2020,Netherlands,North Brabant,-42,-9,41,-62,-42,17,,,,,,,,,
+4/17/2020,Netherlands,North Holland,-49,-12,18,-70,-50,19,,,,,,,,,
+4/17/2020,Netherlands,Overijssel,-41,-9,69,-60,-42,16,,,,,,,,,
+4/17/2020,Netherlands,South Holland,-40,-8,38,-59,-46,18,,,,,,,,,
+4/17/2020,Netherlands,Utrecht,-43,-13,41,-68,-51,20,,,,,,,,,
+4/17/2020,Netherlands,Zeeland,-41,-10,-11,-45,-38,15,,,,,,,,,
+4/17/2020,Norway,Total,-24,3,68,-44,-44,16,,,,,,,,,
+4/17/2020,Norway,Agder,-20,2,66,-18,-43,14,,,,,,,,,
+4/17/2020,Norway,Innlandet,-24,-8,9,-45,-38,14,,,,,,,,,
+4/17/2020,Norway,Møre og Romsdal,-20,0,83,-27,-39,14,,,,,,,,,
+4/17/2020,Norway,Nordland,-23,5,31,-54,-36,13,,,,,,,,,
+4/17/2020,Norway,Oslo,-40,9,108,-54,-60,23,,,,,,,,,
+4/17/2020,Norway,Rogaland,-23,1,133,-43,-42,16,,,,,,,,,
+4/17/2020,Norway,Troms Og Finnmark,-32,-5,-14,-59,-39,14,,,,,,,,,
+4/17/2020,Norway,Trondelag,-28,0,30,-53,-45,18,,,,,,,,,
+4/17/2020,Norway,Vestfold Og Telemark,-12,5,81,-31,-40,13,,,,,,,,,
+4/17/2020,Norway,Vestland,-28,0,59,-41,-42,16,,,,,,,,,
+4/17/2020,Norway,Viken,-12,9,115,-52,-45,16,,,,,,,,,
+4/17/2020,Nepal,Total,-79,-66,-52,-72,-69,26,,,,,,,,,
+4/17/2020,New Zealand,Total,-90,-37,-81,-87,-72,37,,,,,,,,,
+4/17/2020,New Zealand,Auckland,-88,-33,-75,-89,-77,41,,,,,,,,,
+4/17/2020,New Zealand,Bay Of Plenty,-92,-37,-90,-82,-66,34,,,,,,,,,
+4/17/2020,New Zealand,Canterbury,-87,-37,-78,-88,-70,36,,,,,,,,,
+4/17/2020,New Zealand,Hawke's Bay,-92,-39,-71,-84,-58,29,,,,,,,,,
+4/17/2020,New Zealand,Manawatu-Wanganui,-93,-34,-80,-76,-62,31,,,,,,,,,
+4/17/2020,New Zealand,Northland,-91,-42,-87,-86,-65,31,,,,,,,,,
+4/17/2020,New Zealand,Otago,-95,-49,-86,-91,-73,39,,,,,,,,,
+4/17/2020,New Zealand,Waikato,-92,-41,-87,-81,-69,35,,,,,,,,,
+4/17/2020,New Zealand,Wellington,-93,-35,-70,-88,-79,40,,,,,,,,,
+4/17/2020,Oman,Total,-64,-51,-63,-75,-35,19,,,,,,,,,
+4/17/2020,Panama,Total,-77,-49,-69,-74,-72,42,,,,,,,,,
+4/17/2020,Peru,Total,-82,-59,-73,-83,-73,41,,,,,,,,,
+4/17/2020,Peru,Ancash,-79,-59,-63,-87,-64,34,,,,,,,,,
+4/17/2020,Peru,Arequipa,-80,-66,-68,-74,-72,41,,,,,,,,,
+4/17/2020,Peru,Ayacucho,-73,-53,-67,-87,-59,37,,,,,,,,,
+4/17/2020,Peru,Cajamarca,-75,-53,-67,-86,-60,35,,,,,,,,,
+4/17/2020,Peru,Callao Region,-76,-54,-71,-90,-76,42,,,,,,,,,
+4/17/2020,Peru,Cusco,-84,-61,-71,-85,-66,41,,,,,,,,,
+4/17/2020,Peru,Huanuco,-76,-66,-66,-85,-60,33,,,,,,,,,
+4/17/2020,Peru,Ica,-74,-49,-71,-88,-61,35,,,,,,,,,
+4/17/2020,Peru,Junin,-75,-65,-62,-83,-62,37,,,,,,,,,
+4/17/2020,Peru,La Libertad,-81,-55,-68,-82,-68,36,,,,,,,,,
+4/17/2020,Peru,Lambayeque,-83,-65,-70,-88,-70,37,,,,,,,,,
+4/17/2020,Peru,Lima Region,-73,-55,-67,-83,-56,33,,,,,,,,,
+4/17/2020,Peru,Loreto,-78,-59,-67,-69,-58,34,,,,,,,,,
+4/17/2020,Peru,Metropolitan Municipality of Lima,-85,-59,-81,-83,-79,45,,,,,,,,,
+4/17/2020,Peru,Piura,-76,-59,-66,-84,-64,34,,,,,,,,,
+4/17/2020,Peru,Puno,-74,-61,-59,-77,-59,36,,,,,,,,,
+4/17/2020,Peru,San Martin,-78,-59,-58,-83,-60,33,,,,,,,,,
+4/17/2020,Peru,Tacna,-80,-62,-72,-82,-68,39,,,,,,,,,
+4/17/2020,Peru,Ucayali,-71,-36,-61,-86,-57,34,,,,,,,,,
+4/17/2020,Papua New Guinea,Total,-20,-2,-14,-33,-3,11,,,,,,,,,
+4/17/2020,Philippines,Total,-79,-56,-53,-85,-71,39,,,,,,,,,
+4/17/2020,Pakistan,Total,-63,-47,-33,-54,-50,19,,,,,,,,,
+4/17/2020,Poland,Total,-53,-28,-44,-61,-42,20,,,,,,,,,
+4/17/2020,Poland,Greater Poland Voivodeship,-51,-27,-27,-61,-42,20,,,,,,,,,
+4/17/2020,Poland,Kuyavian-Pomeranian Voivodeship,-50,-27,-23,-61,-38,18,,,,,,,,,
+4/17/2020,Poland,Lesser Poland Voivodeship,-61,-35,-71,-68,-48,23,,,,,,,,,
+4/17/2020,Poland,Łódź Voivodeship,-47,-23,-38,-50,-30,18,,,,,,,,,
+4/17/2020,Poland,Lower Silesian Voivodeship,-54,-30,-40,-65,-46,21,,,,,,,,,
+4/17/2020,Poland,Lublin Voivodeship,-56,-31,-41,-61,-29,18,,,,,,,,,
+4/17/2020,Poland,Lubusz Voivodeship,-46,-29,-18,-56,-39,19,,,,,,,,,
+4/17/2020,Poland,Masovian Voivodeship,-56,-29,-49,-68,-54,25,,,,,,,,,
+4/17/2020,Poland,Opole Voivodeship,-51,-25,-29,-60,-39,18,,,,,,,,,
+4/17/2020,Poland,Podkarpackie Voivodeship,-55,-29,-35,-63,-31,19,,,,,,,,,
+4/17/2020,Poland,Podlaskie Voivodeship,-57,-27,-24,-53,-28,18,,,,,,,,,
+4/17/2020,Poland,Pomeranian Voivodeship,-52,-29,-39,-60,-33,19,,,,,,,,,
+4/17/2020,Poland,Silesian Voivodeship,-52,-26,-35,-52,-31,18,,,,,,,,,
+4/17/2020,Poland,Swietokrzyskie,-54,-26,-37,-56,-41,19,,,,,,,,,
+4/17/2020,Poland,Warmian-Masurian Voivodeship,-50,-28,-21,-54,-24,15,,,,,,,,,
+4/17/2020,Poland,West Pomeranian Voivodeship,-51,-30,-44,-53,-39,18,,,,,,,,,
+4/17/2020,Puerto Rico,Total,-62,-31,-59,-75,-57,30,,,,,,,,,
+4/17/2020,Portugal,Total,-69,-30,-58,-73,-62,35,,,,,,,,,
+4/17/2020,Portugal,Aveiro District,-66,-24,-52,-76,-56,36,,,,,,,,,
+4/17/2020,Portugal,Azores,-70,-33,-51,-82,-60,29,,,,,,,,,
+4/17/2020,Portugal,Braga,-67,-24,-65,-68,-58,37,,,,,,,,,
+4/17/2020,Portugal,Castelo Branco District,-66,-27,-56,-74,-56,30,,,,,,,,,
+4/17/2020,Portugal,Coimbra District,-68,-31,-78,-70,-59,35,,,,,,,,,
+4/17/2020,Portugal,Évora District,-65,-28,-69,-77,-55,28,,,,,,,,,
+4/17/2020,Portugal,Faro District,-68,-35,-59,-76,-58,26,,,,,,,,,
+4/17/2020,Portugal,Leiria District,-67,-31,-55,-74,-54,33,,,,,,,,,
+4/17/2020,Portugal,Lisbon,-72,-32,-59,-76,-68,38,,,,,,,,,
+4/17/2020,Portugal,Madeira,-76,-43,-72,-68,-68,37,,,,,,,,,
+4/17/2020,Portugal,Porto District,-71,-28,-56,-73,-61,38,,,,,,,,,
+4/17/2020,Portugal,Santarém District,-67,-30,-50,-75,-55,31,,,,,,,,,
+4/17/2020,Portugal,Setubal,-62,-25,-43,-71,-65,35,,,,,,,,,
+4/17/2020,Portugal,Viana do Castelo District,-67,-29,-56,-57,-58,36,,,,,,,,,
+4/17/2020,Portugal,Vila Real District,-71,-36,-58,-63,-58,32,,,,,,,,,
+4/17/2020,Portugal,Viseu District,-68,-31,-51,-53,-59,34,,,,,,,,,
+4/17/2020,Paraguay,Total,-58,-35,-56,-67,-44,28,,,,,,,,,
+4/17/2020,Qatar,Total,-69,-44,-64,-68,-38,21,,,,,,,,,
+4/17/2020,Romania,Total,-64,-21,-46,-67,-68,24,,,,,,,,,
+4/17/2020,Romania,Alba County,-62,-21,-27,-51,-69,24,,,,,,,,,
+4/17/2020,Romania,Arad County,-66,-22,-34,-64,-71,27,,,,,,,,,
+4/17/2020,Romania,Argeș County,-63,-21,-23,-65,-69,24,,,,,,,,,
+4/17/2020,Romania,Bacău County,-63,-27,-25,-61,-58,20,,,,,,,,,
+4/17/2020,Romania,Bihor County,-63,-24,-28,-55,-68,25,,,,,,,,,
+4/17/2020,Romania,Bistrița-Năsăud County,-64,-29,-29,-53,-66,21,,,,,,,,,
+4/17/2020,Romania,Botoșani County,-61,-28,7,-60,-51,19,,,,,,,,,
+4/17/2020,Romania,Brăila County,-54,-13,-46,-58,-59,21,,,,,,,,,
+4/17/2020,Romania,Brașov County,-71,-34,-70,-69,-73,27,,,,,,,,,
+4/17/2020,Romania,Bucharest,-73,-23,-79,-73,-80,33,,,,,,,,,
+4/17/2020,Romania,Buzău County,-52,-22,-25,-35,-56,20,,,,,,,,,
+4/17/2020,Romania,Călărași County,-33,-5,-16,-48,-55,20,,,,,,,,,
+4/17/2020,Romania,Caraș-Severin County,-64,-23,-30,-43,-60,21,,,,,,,,,
+4/17/2020,Romania,Cluj County,-73,-31,-41,-72,-76,29,,,,,,,,,
+4/17/2020,Romania,Constanța County,-61,-13,-54,-61,-58,21,,,,,,,,,
+4/17/2020,Romania,Covasna County,-64,-34,-43,-48,-49,18,,,,,,,,,
+4/17/2020,Romania,Dâmbovița County,-60,-13,-34,-46,-62,22,,,,,,,,,
+4/17/2020,Romania,Dolj County,-66,-18,-45,-62,-63,21,,,,,,,,,
+4/17/2020,Romania,Galați,-59,-13,-50,-57,-60,21,,,,,,,,,
+4/17/2020,Romania,Giurgiu County,-40,3,-5,-33,-59,22,,,,,,,,,
+4/17/2020,Romania,Gorj County,-53,-16,-31,-59,-55,20,,,,,,,,,
+4/17/2020,Romania,Harghita County,-62,-40,-41,-43,-42,16,,,,,,,,,
+4/17/2020,Romania,Hunedoara County,-65,-17,-43,-58,-64,20,,,,,,,,,
+4/17/2020,Romania,Ialomița County,-37,-7,-17,-56,-51,19,,,,,,,,,
+4/17/2020,Romania,Iași County,-67,-24,-38,-62,-69,25,,,,,,,,,
+4/17/2020,Romania,Ilfov County,-60,-6,-29,-76,-75,31,,,,,,,,,
+4/17/2020,Romania,Maramureș County,-60,-28,-29,-60,-65,22,,,,,,,,,
+4/17/2020,Romania,Mehedinți County,-57,-21,-35,-63,-54,18,,,,,,,,,
+4/17/2020,Romania,Mureș County,-65,-29,-48,-56,-60,21,,,,,,,,,
+4/17/2020,Romania,Neamț County,-62,-30,-37,-57,-57,20,,,,,,,,,
+4/17/2020,Romania,Olt County,-56,-10,-31,-52,-54,17,,,,,,,,,
+4/17/2020,Romania,Prahova,-66,-22,-61,-68,-68,25,,,,,,,,,
+4/17/2020,Romania,Sălaj,-60,-25,-48,-49,-61,20,,,,,,,,,
+4/17/2020,Romania,Satu Mare County,-62,-22,-23,-56,-61,22,,,,,,,,,
+4/17/2020,Romania,Sibiu,-69,-26,-59,-68,-78,28,,,,,,,,,
+4/17/2020,Romania,Suceava County,-69,-39,-35,-68,-60,24,,,,,,,,,
+4/17/2020,Romania,Teleorman County,-43,-7,16,-47,-49,17,,,,,,,,,
+4/17/2020,Romania,Timiș County,-66,-25,-56,-73,-76,29,,,,,,,,,
+4/17/2020,Romania,Tulcea County,-54,-21,-37,-57,-55,19,,,,,,,,,
+4/17/2020,Romania,Vâlcea County,-62,-18,-32,-56,-59,19,,,,,,,,,
+4/17/2020,Romania,Vaslui County,-59,-24,-1,-54,-48,18,,,,,,,,,
+4/17/2020,Romania,Vrancea County,-61,-24,-2,-52,-56,18,,,,,,,,,
+4/17/2020,Rwanda,Total,-64,-62,-17,-76,-58,32,,,,,,,,,
+4/17/2020,Saudi Arabia,Total,-77,-45,-79,-86,-48,24,,,,,,,,,
+4/17/2020,Saudi Arabia,Al Madinah Province,-81,-56,-82,-91,-56,29,,,,,,,,,
+4/17/2020,Saudi Arabia,Al Qassim,-61,-34,-73,-72,-30,19,,,,,,,,,
+4/17/2020,Saudi Arabia,Aseer Province,-54,-23,-56,-76,-28,18,,,,,,,,,
+4/17/2020,Saudi Arabia,Eastern Province,-77,-44,-75,-87,-47,24,,,,,,,,,
+4/17/2020,Saudi Arabia,Hail Province,-54,-31,-68,-62,-24,16,,,,,,,,,
+4/17/2020,Saudi Arabia,Jazan,-64,-38,-74,-61,-23,16,,,,,,,,,
+4/17/2020,Saudi Arabia,Makkah Province,-82,-51,-87,-87,-54,26,,,,,,,,,
+4/17/2020,Saudi Arabia,Riyadh Province,-81,-45,-84,-90,-53,26,,,,,,,,,
+4/17/2020,Saudi Arabia,Tabuk Province,-72,-44,-69,-56,-43,22,,,,,,,,,
+4/17/2020,Sweden,Total,-18,-3,56,-36,-32,11,,,,,,,,,
+4/17/2020,Sweden,Dalarna County,-28,-11,-7,-33,-34,10,,,,,,,,,
+4/17/2020,Sweden,Gavleborg County,-16,-6,31,-33,-35,10,,,,,,,,,
+4/17/2020,Sweden,Jamtland County,-32,-18,7,-44,-38,12,,,,,,,,,
+4/17/2020,Sweden,Jonkoping County,-11,-2,47,-23,-22,7,,,,,,,,,
+4/17/2020,Sweden,Norrbotten County,-23,-12,81,-44,-36,9,,,,,,,,,
+4/17/2020,Sweden,Östergötland County,-11,-4,97,-35,-25,9,,,,,,,,,
+4/17/2020,Sweden,Skåne County,-14,-1,118,-38,-25,9,,,,,,,,,
+4/17/2020,Sweden,Stockholm County,-27,-5,18,-44,-42,16,,,,,,,,,
+4/17/2020,Sweden,Uppsala County,-18,1,51,-41,-28,13,,,,,,,,,
+4/17/2020,Sweden,Varmland County,-15,-4,31,-28,-33,10,,,,,,,,,
+4/17/2020,Sweden,Västerbotten County,-24,-8,41,-41,-40,12,,,,,,,,,
+4/17/2020,Sweden,Västra Götaland County,-16,-2,97,-32,-30,11,,,,,,,,,
+4/17/2020,Singapore,Total,-60,-17,-57,-65,-65,47,,,,,,,,,
+4/17/2020,Slovenia,Total,-68,-29,-12,-55,-50,23,,,,,,,,,
+4/17/2020,Slovenia,Administrative unit Maribor,-69,-34,-16,-69,-50,20,,,,,,,,,
+4/17/2020,Slovenia,Ljubljana,-71,-32,-31,-68,-58,26,,,,,,,,,
+4/17/2020,Slovakia,Total,-63,-12,27,-53,-44,18,,,,,,,,,
+4/17/2020,Slovakia,Banská Bystrica Region,-67,-14,33,-47,-40,16,,,,,,,,,
+4/17/2020,Slovakia,Bratislava Region,-64,-15,50,-59,-54,23,,,,,,,,,
+4/17/2020,Slovakia,Nitra Region,-60,-10,36,-47,-40,17,,,,,,,,,
+4/17/2020,Slovakia,Prešov Region,-66,-14,-38,-51,-42,17,,,,,,,,,
+4/17/2020,Slovakia,Trenčín Region,-59,-10,37,-47,-39,16,,,,,,,,,
+4/17/2020,Slovakia,Trnava Region,-58,-3,80,-54,-42,18,,,,,,,,,
+4/17/2020,Slovakia,Žilina Region,-67,-14,-3,-54,-42,18,,,,,,,,,
+4/17/2020,Senegal,Total,-43,-30,-28,-51,-32,19,,,,,,,,,
+4/17/2020,El Salvador,Total,-71,-45,-65,-68,-62,34,,,,,,,,,
+4/17/2020,Togo,Total,-36,-23,-15,-38,-21,21,,,,,,,,,
+4/17/2020,Thailand,Total,-49,-19,-48,-62,-33,21,,,,,,,,,
+4/17/2020,Tajikistan,Total,-3,-3,-2,-13,14,-2,,,,,,,,,
+4/17/2020,Turkey,Total,-53,15,-31,-57,-48,21,,,,,,,,,
+4/17/2020,Trinidad and Tobago,Total,-65,-24,-54,-76,-61,30,,,,,,,,,
+4/17/2020,Taiwan,Total,-8,2,2,-15,3,3,,,,,,,,,
+4/17/2020,Tanzania,Total,-29,-19,-14,-23,-22,12,,,,,,,,,
+4/17/2020,Uganda,Total,-68,-55,-24,-70,-55,32,,,,,,,,,
+4/17/2020,Uruguay,Total,-52,-26,-66,-49,-32,19,,,,,,,,,
+4/17/2020,Uruguay,Canelones Department,-49,-29,-63,-53,-30,19,,,,,,,,,
+4/17/2020,Uruguay,Cerro Largo Department,-45,-13,-60,-35,-14,14,,,,,,,,,
+4/17/2020,Uruguay,Colonia Department,-55,-27,-73,-69,-25,17,,,,,,,,,
+4/17/2020,Uruguay,Maldonado Department,-74,-50,-86,-74,-47,21,,,,,,,,,
+4/17/2020,Uruguay,Montevideo Department,-51,-20,-55,-38,-38,23,,,,,,,,,
+4/17/2020,Uruguay,Paysandú Department,-43,10,-62,-46,-19,15,,,,,,,,,
+4/17/2020,Uruguay,Rivera Department,-50,-21,-53,-50,-23,14,,,,,,,,,
+4/17/2020,Uruguay,San José Department,-33,-18,-55,-35,-21,17,,,,,,,,,
+4/17/2020,Uruguay,Tacuarembó Department,-38,-15,-62,-44,-12,14,,,,,,,,,
+4/17/2020,Venezuela,Total,-60,-36,-52,-61,-50,24,,,,,,,,,
+4/17/2020,Vietnam,Total,-51,-30,-35,-54,-25,18,,,,,,,,,
+4/17/2020,Yemen,Total,-8,2,-10,-14,5,3,,,,,,,,,
+4/17/2020,South Africa,Total,-71,-38,-45,-78,-70,38,,,,,,,,,
+4/17/2020,South Africa,Eastern Cape,-74,-41,-22,-76,-66,33,,,,,,,,,
+4/17/2020,South Africa,Free State,-71,-35,-47,-58,-61,33,,,,,,,,,
+4/17/2020,South Africa,Gauteng,-71,-38,-59,-80,-75,42,,,,,,,,,
+4/17/2020,South Africa,KwaZulu-Natal,-71,-41,-27,-79,-66,35,,,,,,,,,
+4/17/2020,South Africa,Limpopo,-64,-44,-6,-69,-62,32,,,,,,,,,
+4/17/2020,South Africa,Mpumalanga,-67,-37,-23,-60,-58,32,,,,,,,,,
+4/17/2020,South Africa,North West,-70,-39,-31,-60,-63,35,,,,,,,,,
+4/17/2020,South Africa,Northern Cape,-66,-39,-31,-72,-57,32,,,,,,,,,
+4/17/2020,South Africa,Western Cape,-76,-43,-77,-84,-74,38,,,,,,,,,
+4/17/2020,Zambia,Total,-23,-14,-6,-26,-15,13,,,,,,,,,
+4/17/2020,Zimbabwe,Total,-62,-48,-47,-79,-62,43,,,,,,,,,
